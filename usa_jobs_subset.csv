@@ -1,0 +1,501 @@
+positionOpenDate,positionTitle,appointmentType,maximumSalary,workSchedule,salaryType,state,clean_positionTitle,skill_set_0,skill_set_1,skill_set_2,year_month
+2020-07-22,BUDGET ANALYST,Permanent,70843.0,Full-time,Per Year,North Carolina,budget,0.18167499532353473,0.6513691327009549,0.16695587197551043,2020-07
+2013-09-11,Attorney and Assistant United States Attorney,Multiple,129517.0,Full-time,Per Year,District of Columbia,attorney united states attorney,0.8660578307853815,0.06697405875534844,0.0669681104592702,2013-09
+2020-02-14,SENIOR INFORMATION TECHNOLOGY SPECIALIST (DATA NETWORK),Permanent,115742.0,Full-time,Per Year,District of Columbia,information technology data network,0.0667688034956562,0.06703651725359284,0.866194679250751,2020-02
+2020-02-14,SENIOR INFORMATION TECHNOLOGY SPECIALIST (DATA NETWORK),Permanent,115742.0,Full-time,Per Year,District of Columbia,information technology data network,0.0667688034956562,0.06703651725359284,0.866194679250751,2020-02
+2018-02-15,Rating Veterans Service Representative,Agency Employees Only,0.0,Full-time,Per Year,Mississippi,rating veterans service representative,0.06686387478283246,0.2677355393965617,0.6654005858206059,2018-02
+2024-04-15,Rating Veterans Service Representative,Permanent,0.0,Full-time,Per Year,Mississippi,rating veterans service representative,0.06686387478283246,0.2677355393965617,0.6654005858206059,2024-04
+2017-06-14,"DIAGNOSTIC RADIOLOGIC TECHNOLOGIST GS 0647-08, CBOC, HOT SPRINGS, ARKANSAS",Permanent,56441.0,Full-time,Per Year,Arkansas,diagnostic radiologic technologist cboc hot springs arkansas,0.04511182205608546,0.041931356797634496,0.91295682114628,2017-06
+2022-05-16,HR SPECIALIST (Recruitment and Placement),Permanent,84146.0,Full-time,Per Year,New York,recruitment placement,0.7760311908979027,0.11199310966852873,0.11197569943356848,2022-05
+2027-05-26,LPN,Multiple,52109.0,Full-time,Per Year,New York,lpn,0.1673154342887609,0.16939640994354502,0.6632881557676941,2027-05
+2020-06-15,LPN - Employee Health Nurse,Permanent,50597.0,Full-time,Per Year,Illinois,lpn employee health nurse,0.07623762697122094,0.721813457529386,0.20194891549939312,2020-06
+2022-07-17,Intern (Human Resource Specialist) - Test,Internships,59000.0,Full-time,Per Year,District of Columbia,intern human resource,0.08347009544266189,0.8330511594095923,0.0834787451477458,2022-07
+2020-07-13,Management & Program Analyst ,Permanent,151254.0,Full-time,Per Year,District of Columbia,management,0.17420889284498384,0.6590287816573406,0.16676232549767558,2020-07
+2022-08-31,RN (Critical Care),Agency Employees Only,100420.0,Full-time,Per Year,Oregon,critical care,0.11124357603594691,0.11125708157558377,0.7774993423884693,2022-08
+2022-08-31,RN (Critical Care),Agency Employees Only,100420.0,Part-time,Per Year,Oregon,critical care,0.11124357603594691,0.11125708157558377,0.7774993423884693,2022-08
+2022-09-07,Registered Nurse (Palliative Care),Permanent,138686.0,Full-time,Per Year,New York,registered nurse palliative care,0.07244045486317562,0.4290518409001007,0.49850770423672375,2022-09
+2017-12-01,Training Systems Program Manager,Permanent,106369.0,Full-time,Per Year,Florida,training systems,0.1112496987289255,0.74705092043504,0.14169938083603448,2017-12
+2018-10-02,Claims Assistant,Agency Employees Only,47837.0,Full-time,Per Year,Oregon,claims,0.16703392435411799,0.16706461603593603,0.6659014596099461,2018-10
+2022-10-07,"MEDICAL OFFICER, GS-0602-15",Permanent,155000.0,Full-time,Per Year,Maryland,medical,0.6665815283638364,0.16670786865482837,0.1667106029813352,2022-10
+2021-11-03,Program Support Assistant-TEST ANNOUNCEMENT,Permanent,45376.0,Full-time,Per Year,New York,support,0.17323246836464024,0.16675970462468687,0.660007827010673,2021-11
+2022-11-11,Senior Social Worker (Bonham Domiciliary),Permanent,94551.0,Full-time,Per Year,Texas,social worker bonham domiciliary,0.06705076864759812,0.31432598745830287,0.6186232438940992,2022-11
+2020-01-01,PATHWAYS-TEST VACANCY,Internships,33000.0,Full-time,Per Year,California,vacancy,0.6638354360376603,0.16809666895120964,0.16806789501113012,2020-01
+2022-12-04,Physician (Psychiatrist- NW Metro Out-patient Clinic),Permanent,250000.0,Full-time,Per Year,Minnesota,physician psychiatrist metro patient clinic,0.8746559092396249,0.056585915392696105,0.06875817536767895,2022-12
+2017-01-04,Staff Physician (MICU Hospitalist),Permanent,240000.0,Full-time,Per Year,Pennsylvania,physician micu hospitalist,0.8283429353961009,0.08356954828278865,0.08808751632111042,2017-01
+2017-12-15,Supervisory Interdisciplinary Scientist ,Permanent,155500.0,Full-time,Per Year,Maryland,supervisory interdisciplinary scientist,0.8266470153339448,0.08340228500140358,0.08995069966465155,2017-12
+2023-01-01,TEST TEST TEST - SANDI KIER FOR JOA TEMPLATES,Permanent,100.0,Full-time,Per Year,California,sandi kier joa templates,0.06710587977211355,0.06714281829084563,0.8657513019370409,2023-01
+2024-01-08,"Laboratory Support Techician (OA), GS-0303-05",Permanent,45898.0,Full-time,Per Year,New York,laboratory support techician,0.08458764921213804,0.0836426595816061,0.8317696912062559,2024-01
+2020-01-01,SUPERVISORY NURSE PRACTITIONER,Permanent,124123.0,Full-time,Per Year,California,supervisory nurse practitioner,0.8280544108640127,0.08785246580667787,0.08409312332930947,2020-01
+2020-01-01,SUPERVISORY CONTRACT SPECIALIST,Permanent,78355.0,Full-time,Per Year,,supervisory,0.6665735053951254,0.1667152379265428,0.16671125667833175,2020-01
+2022-04-19,TEMPLATE - RN,Permanent,102221.0,Full-time,Per Year,Colorado,template,0.1679025868524545,0.16800891557411926,0.6640884975734263,2022-04
+2017-01-15,Staff Physician (Hospitalist-Acute Medicine),Permanent,264000.0,Multiple Schedules,Per Year,Pennsylvania,physician hospitalist acute medicine,0.8375190521058318,0.06680100083194251,0.09567994706222582,2017-01
+2023-02-01,Lock and Dam Operator (Trainee),Permanent,24.51,Full-time,Per Hour,Tennessee,lock dam operator trainee,0.0693120776005465,0.06954174039428491,0.8611461820051686,2023-02
+2020-10-05,TEST ANNOUNCEMENT (Auditor),Permanent,96689.0,Full-time,Per Year,District of Columbia,auditor,0.16685668074647633,0.6662888732723646,0.16685444598115892,2020-10
+2017-12-05,Regulatory Health Project Manager ,Permanent,136771.0,Full-time,Per Year,Maryland,regulatory health project,0.8216913782075159,0.09473022320977346,0.08357839858271053,2017-12
+2017-12-15,Regulatory Information Specialist,Permanent,115742.0,Full-time,Per Year,Maryland,regulatory information,0.4329186620350378,0.1116344384964725,0.4554468994684896,2017-12
+2023-02-01,Program Support Assistant,Permanent,48190.0,Full-time,Per Year,California,support,0.17323246836464024,0.16675970462468687,0.660007827010673,2023-02
+2023-03-04,Photographer (Draft),Permanent,55844.0,Full-time,Per Year,Texas,photographer draft,0.7760311915634179,0.1119931093979933,0.11197569903858874,2023-03
+2020-03-11,Lead Medical Support Assistant,Permanent,50431.0,Full-time,Per Year,Texas,medical support,0.5517910030340225,0.11119554368225533,0.33701345328372206,2020-03
+2020-03-01,Financial Systems Analyst,Permanent,81204.0,Full-time,Per Year,Maryland,financial systems,0.11121640289283505,0.11592110406472407,0.7728624930424408,2020-03
+2023-03-06,IMMIGRATION SERVICES ASSISTANT (OA),Permanent,56859.0,Full-time,Per Year,Texas,immigration,0.6638354354160618,0.1680966692477206,0.16806789533621758,2023-03
+2020-03-20,RN-Home Care Nurse,Permanent,97212.0,Part-time,Per Year,Idaho,home care nurse,0.09107194901495858,0.5501379203452936,0.35879013063974785,2020-03
+2017-03-29,Licensed Practical Nurse (CLC part-time),Permanent,45376.0,Full-time,Per Year,South Dakota,licensed practical nurse clc part time,0.05023212560573397,0.9017440870515521,0.048023787342713835,2017-03
+2017-12-07,US OPM Schedule A File,Multiple,82642.0,Full-time,Per Year,Pennsylvania,opm schedule file,0.0837271911130881,0.8325883869716378,0.08368442191527402,2017-12
+2017-02-16,U.S. OPM Veteran File,Multiple,82642.0,Multiple Schedules,Per Year,Texas,opm veteran file,0.08365435611365307,0.8326716855183276,0.0836739583680193,2017-02
+2017-05-25,"Human Resource Assistant (Military), GS-0203-06, D2056000",Agency Employees Only,45376.0,Full-time,Per Year,West Virginia,human resource,0.1112176071250218,0.7775582391583586,0.11122415371661946,2017-05
+2013-10-01,Certified Respiratory Therapist - FY14 - DH/NC,Multiple,0.0,Full-time,Per Year,Florida,certified respiratory therapist,0.08523437553680298,0.8312256173911406,0.08354000707205642,2013-10
+2013-10-01,Licensed Professional Mental Health Counselor - FY14 - DH/NC,Multiple,0.0,Full-time,Per Year,Florida,licensed professional mental health counselor,0.8848061494536824,0.05938311717930391,0.05581073336701372,2013-10
+2013-10-01,Pharmacy Technician - FY14 - DH/NC,Multiple,0.0,Full-time,Per Year,Florida,pharmacy technician,0.4845738065118775,0.11712497131350032,0.3983012221746222,2013-10
+2013-10-01,Psychologist-- FY14 - DH/NC,Multiple,0.0,Full-time,Per Year,Florida,psychologist,0.6660322938168309,0.16699453842918383,0.1669731677539853,2013-10
+2017-01-04,Electronic Integrated System Mechanic (Military Requirement),Multiple,26.18,Full-time,Per Hour,Georgia,electronic integrated system mechanic,0.639675658242824,0.08163789474793144,0.2786864470092446,2017-01
+2017-01-04,Aircraft Engine Mechanic (Military Requirement),Multiple,26.81,Full-time,Per Hour,Alaska,aircraft engine mechanic,0.08345178527026367,0.08345951237283934,0.833088702356897,2017-01
+2017-01-04,Aircraft Mechanic (Fixed Wing) - Military Requirement,Multiple,26.81,Full-time,Per Hour,Nevada,aircraft mechanic fixed wing,0.0669029610825105,0.06692130603698572,0.8661757328805038,2017-01
+2017-01-04,AIRPLANE FLIGHT INSTRUCTOR  (Military Requirement),Multiple,126045.0,Full-time,Per Year,Hawaii,airplane flight instructor,0.08353988860984797,0.08355714153482141,0.8329029698553306,2017-01
+2017-06-13,Social Insurance Specialist (Claims Representative) ,Agency Employees Only,55813.0,Full-time,Per Year,Illinois,social insurance claims representative,0.06679513477006024,0.06817526936058506,0.8650295958693546,2017-06
+2017-01-14,Staff Physician (Emergency Medicine),Permanent,348000.0,Multiple Schedules,Per Year,Pennsylvania,physician emergency medicine,0.08971097306679957,0.08341362743176439,0.8268753995014361,2017-01
+2014-04-25,Presidential Management Fellows Program (PMF) - Budget Analyst,Multiple,98305.0,Full-time,Per Year,District of Columbia,presidential management fellows pmf budget,0.8553112017995771,0.08882037880281644,0.05586841939760645,2014-04
+2016-06-08,City Carrier Assistant,Permanent,0.0,Full-time,Per Year,,carrier,0.1668766827985335,0.6662337461545382,0.16688957104692825,2016-06
+2014-06-18,"Budget Analyst, GS-0560-09",Permanent,52715.0,Full-time,Per Year,Texas,budget,0.18167499532353473,0.6513691327009549,0.16695587197551043,2014-06
+2018-01-01,LOCAL HIRE TEST ANNOUNCEMENT,Permanent,35000.0,Full-time,Per Year,,local,0.16723031791056875,0.6655035924555234,0.16726608963390793,2018-01
+2015-03-03,Operations Research Analyst,Multiple,93101.0,Full-time,Per Year,Virginia,operations research,0.4562352260730485,0.43234407485404935,0.1114206990729021,2015-03
+2015-07-07,Supervisory Pretrial Services Officer (DTCU),Agency Employees Only,116901.0,Full-time,Per Year,District of Columbia,supervisory pretrial dtcu,0.8324791000750329,0.08376488325338088,0.08375601667158622,2015-07
+2014-08-18,Material Handler,Permanent,23.26,Full-time,Per Hour,New York,material handler,0.11186043809338574,0.7762317721114282,0.11190778979518594,2014-08
+2014-09-12,"Accounting Technician, ZS-0525-III/IV (GS-5-8 equivalent)",Permanent,61377.0,Full-time,Per Year,Maryland,accounting technician iii,0.13293992047132552,0.7833552655273975,0.08370481400127695,2014-09
+2014-09-15,"Contract Specialist, GS-1102-09/11 (MS-MP)",Permanent,82019.0,Full-time,Per Year,Virginia,,0.3333333333333333,0.3333333333333333,0.3333333333333333,2014-09
+2017-01-01,Physician (Primary Care),Permanent,195000.0,Full-time,Per Year,Pennsylvania,physician primary care,0.08803269925073526,0.0833656856826261,0.8286016150666387,2017-01
+2017-03-01,Staff Physician (Pulmonary/Critical Care/Sleep),Permanent,348000.0,Full-time,Per Year,New Mexico,physician pulmonary critical care sleep,0.05744982431692912,0.05574133434103724,0.8868088413420336,2017-03
+2017-10-25,VMO (Public Health),Permanent,93821.0,Full-time,Per Year,Missouri,vmo public health,0.09420860684468416,0.5683075641111012,0.33748382904421464,2017-10
+2014-10-21,SENIOR ADVISOR FOR OVERSIGHT,Permanent,157100.0,Full-time,Per Year,Maryland,advisor oversight,0.11187550982236648,0.1119401738154662,0.7761843163621672,2014-10
+2014-10-01,Accountant,Agency Employees Only,62297.0,Full-time,Per Year,Nevada,accountant,0.16682025023902627,0.1668330860620168,0.666346663698957,2014-10
+2017-11-01,PURCHASING AGENT,Permanent,44615.0,Full-time,Per Year,,purchasing,0.16787765440443753,0.6641669593644661,0.16795538623109638,2017-11
+2014-10-15,Food Service Worker - Full Time,Agency Employees Only,15.17,Full-time,Per Hour,Missouri,food service worker full time,0.05567144684662228,0.8886462226680418,0.05568233048533596,2014-10
+2017-04-01,Food Inspector,Intermittent,52043.0,Intermittent,Per Year,Alabama,food,0.16687695595908766,0.6662331168008374,0.16688992724007498,2017-04
+2014-10-23,Team Leader Medical Technologist (Microbiology),Agency Employees Only,77358.0,Full-time,Per Year,New York,team leader medical technologist microbiology,0.8832953442692637,0.055767729083693623,0.06093692664704281,2014-10
+2014-10-24,Community Planner,Permanent,99534.0,Full-time,Per Year,California,community planner,0.11130800294604952,0.7773717433373823,0.1113202537165682,2014-10
+2016-07-08,Physician (Emergency Department),Permanent,348000.0,Full-time,Per Year,West Virginia,physician emergency,0.12196286251364631,0.11121649303670068,0.7668206444496529,2016-07
+2014-10-31,Supervisory Air Traffic Control Specialist (T) (Operations Supervisor),Permanent,100482.0,Full-time,Per Year,California,supervisory air traffic control operations,0.6965322091112914,0.24782812262603154,0.05563966826267701,2014-10
+2014-11-05,"Aviation Safety Inspector (OPS), Assistant Aircrew Program Manager, Operations",Permanent,112261.0,Full-time,Per Year,Georgia,aviation safety ops aircrew operations,0.05573235031143594,0.8886051431638933,0.05566250652467079,2014-11
+2014-11-03,Interdisciplinary Research Geophysicist/Civil Engineer (ATL-DEU-TCR),Permanent,117447.0,Full-time,Per Year,Massachusetts,interdisciplinary research geophysicist civil engineer atl tcr,0.9163472942469656,0.04182872108064224,0.04182398467239219,2014-11
+2014-11-07,Community Planner,Permanent,91198.0,Full-time,Per Year,Hawaii,community planner,0.11130800294604952,0.7773717433373823,0.1113202537165682,2014-11
+2014-11-07,Community Planner,Permanent,109791.0,Full-time,Per Year,Hawaii,community planner,0.11130800294604952,0.7773717433373823,0.1113202537165682,2014-11
+2014-11-12,SOCIAL WORKER,Permanent,83960.0,Full-time,Per Year,California,social worker,0.11126287913592114,0.751809078583791,0.13692804228028777,2014-11
+2014-11-20,FINANCIAL SERVICES TECHNICIAN (D1986000),Agency Employees Only,56406.0,Full-time,Per Year,Puerto Rico,financial technician,0.4385893569732604,0.11688193238301213,0.4445287106437275,2014-11
+2017-01-19,Transportation Security Officer (TSO),Permanent,26.57,Part-time,Per Hour,North Dakota,transportation security tso,0.08339160673195889,0.08393834070708557,0.8326700525609555,2017-01
+2015-05-01,LOCAL HIRE TEST ANNOUNCEMENT,Permanent,35000.0,Full-time,Per Year,,local,0.16723031791056875,0.6655035924555234,0.16726608963390793,2015-05
+2014-12-18,INFORMATION TECHNOLOGY SPECIALIST (INFOSEC),Permanent,138136.0,Full-time,Per Year,District of Columbia,information technology infosec,0.08342784463294005,0.08343353717793443,0.8331386181891255,2014-12
+2014-12-16,Secretary,Permanent,51702.0,Full-time,Per Year,Illinois,secretary,0.16681972991964225,0.16683247331716397,0.6663477967631938,2014-12
+2014-12-23,Logistics Management Specialist,Permanent,109184.0,Full-time,Per Year,Alabama,logistics management,0.113410747192,0.7753275292669976,0.11126172354100246,2014-12
+2018-04-12,Transportation Security Officer (TSO),Permanent,26.23,Part-time,Per Hour,North Dakota,transportation security tso,0.08339160673195889,0.08393834070708557,0.8326700525609555,2018-04
+2017-02-27,"Nurse Practitioner (Dalhart, TX)",Permanent,127348.0,Full-time,Per Year,Texas,nurse practitioner dalhart,0.827526205981967,0.08816691821711364,0.08430687580091935,2017-02
+2014-12-31,Social Worker,Agency Employees Only,75376.0,Full-time,Per Year,Tennessee,social worker,0.11126287913592114,0.751809078583791,0.13692804228028777,2014-12
+2016-01-21,Medical Support Assistant (Rural Health Initiative Program),Agency Employees Only,41954.0,Full-time,Per Year,Virginia,medical support rural health initiative,0.43079261983698824,0.05945780366588944,0.5097495764971224,2016-01
+2016-01-14,Assistant Human Resources Officer,Agency Employees Only,118905.0,Full-time,Per Year,Illinois,human resources,0.11116356073258563,0.7776696634429661,0.11116677582444824,2016-01
+2015-01-21,Security Specialist,Permanent,128223.0,Full-time,Per Year,Texas,security,0.1667837390852065,0.1667933772875138,0.6664228836272796,2015-01
+2015-01-21,Supervisory Aviation Safety Inspector (Operations),Temporary,157305.0,Full-time,Per Year,California,supervisory aviation safety operations,0.26886515885314444,0.6644305446112215,0.06670429653563399,2015-01
+2017-04-13,Transportation Security Officer (TSO),Permanent,26.57,Part-time,Per Hour,North Dakota,transportation security tso,0.08339160673195889,0.08393834070708557,0.8326700525609555,2017-04
+2017-02-03,AIRPLANE PILOT (Military Requirement),Multiple,106003.0,Full-time,Per Year,Nevada,airplane pilot,0.11126383399150146,0.11127645173751037,0.7774597142709881,2017-02
+2015-01-29,Medical Support Assistant Direct Hires,Multiple,46294.0,Full-time,Per Year,Kentucky,medical support hires,0.761230987546682,0.083624897824679,0.15514411462863906,2015-01
+2015-02-19,Foreign Service Economist Officer  (Backstop 11),Permanent,79131.0,Full-time,Per Year,District of Columbia,foreign service economist backstop,0.06672238269381153,0.866545597643734,0.06673201966245448,2015-02
+2015-03-02,Supervisory Contract Specialist,Permanent,139523.0,Full-time,Per Year,District of Columbia,supervisory,0.6665735053951254,0.1667152379265428,0.16671125667833175,2015-03
+2015-03-13,Social Sciences/Addiction Recovery Services Coordinator,Permanent,111358.0,Full-time,Per Year,Ohio,social sciences addiction recovery,0.06683935735849716,0.06822769980396713,0.8649329428375356,2015-03
+2015-03-13,Medical Record Technician (Coder),Permanent,56974.0,Full-time,Per Year,Missouri,medical record technician coder,0.865454466843194,0.06760991480607702,0.06693561835072898,2015-03
+2015-03-17,Social Sciences/Addiction Recovery Services Coordinator,Permanent,111358.0,Full-time,Per Year,Ohio,social sciences addiction recovery,0.06683935735849716,0.06822769980396713,0.8649329428375356,2015-03
+2015-03-17,Advanced Medical Support Assistant (Transplant),Permanent,46294.0,Full-time,Per Year,Tennessee,advanced medical support transplant,0.8445111758791913,0.06689328141135416,0.08859554270945437,2015-03
+2015-03-18,Aviation Safety Inspector (General Aviation Avionics),Permanent,118515.0,Full-time,Per Year,Alaska,aviation safety aviation avionics,0.06671015058515808,0.8665767943420323,0.06671305507280965,2015-03
+2015-03-20,Engineering Technician,Permanent,77371.0,Full-time,Per Year,Alabama,engineering technician,0.30190333293610205,0.5866627379638982,0.11143392909999977,2015-03
+2015-03-19,Supervisory Aviation Safety Inspector,Temporary promotion,145130.0,Full-time,Per Year,Alaska,supervisory aviation safety,0.3326719488714919,0.5839508857645483,0.08337716536395975,2015-03
+2015-02-01,Interdisciplinary,Permanent,118069.0,Full-time,Per Year,Maryland,interdisciplinary,0.6662599281306273,0.16687194638124142,0.16686812548813132,2015-02
+2015-03-01,NC AMSA 0679 06,Multiple,46294.0,Full-time,Per Year,Tennessee,amsa,0.6638354366356027,0.16809666875026844,0.1680678946141289,2015-03
+2015-03-29,Human Resources Specialist (NAF) NF-04,Permanent,70000.0,Full-time,Per Year,,human resources naf,0.08353945401502558,0.832908216997475,0.08355232898749944,2015-03
+2015-03-26,Accountant,Permanent,0.0,Full-time,Per Year,District of Columbia,accountant,0.16682025023902627,0.1668330860620168,0.666346663698957,2015-03
+2015-03-31,"Administrative Office Clerk/Assistant (OA), ZS-0303-II/III",Permanent,50374.0,Full-time,Per Year,Maryland,administrative office clerk iii,0.0688566923162744,0.864377042233207,0.0667662654505185,2015-03
+2015-03-25,Human Resources Specialist,Permanent,22000.0,Full-time,Per Year,Texas,human resources,0.11116356073258563,0.7776696634429661,0.11116677582444824,2015-03
+2015-03-31,Program Support Assistant (DH/NC),Agency Employees Only,0.0,Full-time,Per Year,Florida,support,0.17323246836464024,0.16675970462468687,0.660007827010673,2015-03
+2015-03-31,Time and Leave Clerk (DH/NC),Agency Employees Only,0.0,Full-time,Per Year,Florida,time leave clerk,0.08359513399236912,0.8327935370506571,0.0836113289569738,2015-03
+2016-04-01,Medical Support Assistant (NON-COMPETITIVE HIRE ANNOUNCEMENT),Multiple,48804.0,Full-time,Per Year,Oregon,medical support non competitive,0.34148984745451744,0.06694918909041052,0.5915609634550719,2016-04
+2015-04-03,Aviation Safety Inspector (Airworthiness),Detail,112319.0,Full-time,Per Year,Alaska,aviation safety airworthiness,0.08340095743180936,0.833193460873989,0.08340558169420156,2015-04
+2015-04-03,Peer Support Apprentice,Permanent,41530.0,Full-time,Per Year,Kentucky,peer support apprentice,0.08466111119470128,0.08374769397588376,0.8315911948294149,2015-04
+2016-03-04,Physician (Hospitalist),Permanent,240000.0,Multiple Schedules,Per Year,Tennessee,physician hospitalist,0.767526134759881,0.11116159611215157,0.12131226912796743,2016-03
+2015-04-08,Air Conditioning Controls Mechanic,Agency Employees Only,25.68,Full-time,Per Hour,Alabama,air conditioning controls mechanic,0.6415790637350123,0.0842307711135176,0.2741901651514701,2015-04
+2017-03-03,Supervisory Counseling Psychologist/Social Worker (Substance Abuse) ,Permanent,94037.0,Full-time,Per Year,North Carolina,supervisory counseling psychologist social worker substance abuse,0.6616702425126776,0.28728373493963316,0.05104602254768927,2017-03
+2015-04-10,Assistant Chief of Radiology,Multiple,0.0,Full-time,Per Year,Tennessee,radiology,0.6653605546756864,0.16732555158513204,0.16731389373918149,2015-04
+2016-05-27,Physician Assistant (Float),Permanent,92316.0,Full-time,Per Year,West Virginia,physician float,0.7664533900484439,0.11156462290282859,0.12198198704872745,2016-05
+2015-04-15,Pharmacist - FY15 - DH/NC,Multiple,0.0,Full-time,Per Year,Florida,pharmacist,0.6660456897140535,0.16698019875280973,0.1669741115331367,2015-04
+2015-04-20,Foreign Service Executive Officer (Backstop 03),Permanent,79922.0,Full-time,Per Year,District of Columbia,foreign service executive backstop,0.06814053469130414,0.8651183344696615,0.06674113083903441,2015-04
+2015-05-05,Registered Nurse - (Minimum Data Sets/Patient Care Service/HJ Heinz),Agency Employees Only,100786.0,Full-time,Per Year,Pennsylvania,registered nurse minimum data sets patient care service heinz,0.035735007580820995,0.7590660278991804,0.20519896451999864,2015-05
+2015-05-04,Budget Analyst,Permanent,82840.0,Full-time,Per Year,District of Columbia,budget,0.18167499532353473,0.6513691327009549,0.16695587197551043,2015-05
+2015-05-04,Airway Transportation System Specialist (NAV/COMM),Permanent,95494.0,Full-time,Per Year,Florida,airway transportation system nav comm,0.0564093359088859,0.8513260319166189,0.09226463217449515,2015-05
+2017-03-28,Staff Physician (Hospitalist-Acute Medicine and Surgery),Permanent,240000.0,Full-time,Per Year,Pennsylvania,physician hospitalist acute medicine surgery,0.8720689997308573,0.05569446756966551,0.07223653269947715,2017-03
+2016-06-30,Physician - Orthopedic Surgeon,Permanent,375000.0,Full-time,Per Year,Kansas,physician orthopedic surgeon,0.08817454377315788,0.0834611232773924,0.8283643329494498,2016-06
+2015-05-12,Psychiatrist - FY15 - DH/NC,Multiple,0.0,Full-time,Per Year,Florida,psychiatrist,0.1750586447127276,0.1668591393153661,0.6580822159719063,2015-05
+2016-06-30,Physician - Emergency Room,Permanent,240000.0,Full-time,Per Year,Kansas,physician emergency room,0.0883573115872598,0.08358426251168975,0.8280584259010505,2016-06
+2016-06-30,Physician - Outpatient,Permanent,190000.0,Full-time,Per Year,Kansas,physician outpatient,0.1225721076376866,0.11153933412354124,0.7658885582387722,2016-06
+2016-06-30,Physician - Hospitalist,Permanent,230000.0,Full-time,Per Year,Kansas,physician hospitalist,0.767526134759881,0.11116159611215157,0.12131226912796743,2016-06
+2015-04-28,Supervisory Statistician (Economics),Permanent,138136.0,Full-time,Per Year,District of Columbia,supervisory statistician economics,0.8328071920445772,0.08359921018547914,0.08359359776994374,2015-04
+2015-05-14,Aviation Safety Inspector (Air Carrier Avionics Part 145),Permanent,151799.0,Full-time,Per Year,California,aviation safety air carrier avionics part,0.0483833851881031,0.9039355182395357,0.04768109657236113,2015-05
+2018-05-30,Transportation Security Officer (TSO),Permanent,25.98,Part-time,Per Hour,Colorado,transportation security tso,0.08339160673195889,0.08393834070708557,0.8326700525609555,2018-05
+2015-05-15,Regional Airspace Specialist  ,Permanent,100530.0,Full-time,Per Year,California,regional airspace,0.11186043812182148,0.7762317720592935,0.11190778981888497,2015-05
+2015-05-19,Nuclear Engineer,Permanent,158700.0,Full-time,Per Year,Maryland,nuclear engineer,0.7768728172057169,0.11156556911316765,0.11156161368111546,2015-05
+2015-05-20,Aviation Safety Inspector (Air Carrier Operations-A6WA),Permanent,140511.0,Full-time,Per Year,Illinois,aviation safety air carrier operations,0.05667269083530279,0.8877378779329101,0.05558943123178698,2015-05
+2015-05-27,Administrative Office Assistant (OA) ZS-0303-III,Permanent,54806.0,Full-time,Per Year,California,administrative office iii,0.08711465755926519,0.8294122938969511,0.08347304854378365,2015-05
+2015-05-29,"Supervisory Executive Management Specialist, ZA-0301-V (GS-15 equivalent)",Permanent,158700.0,Full-time,Per Year,Colorado,supervisory executive management,0.5066408405812839,0.4098856450652119,0.08347351435350411,2015-05
+2015-05-26,Secretary-Direct Hire,Agency Employees Only,46294.0,Full-time,Per Year,Florida,secretary,0.16681972991964225,0.16683247331716397,0.6663477967631938,2015-05
+2015-06-03,"Air Traffic Control Specialist (T), Certified Professional Controller (CPC)",Permanent,112523.0,Full-time,Per Year,California,air traffic control certified professional controller cpc,0.9112287689693146,0.04609021759368797,0.04268101343699743,2015-06
+2015-06-03,"Aviation Safety Inspector, (AW) Assistant Principal Maintenance Inspector ",Permanent,113383.0,Full-time,Per Year,Georgia,aviation safety maintenance,0.08342926427268722,0.5873711265377493,0.3291996091895634,2015-06
+2015-06-03,Aviation Safety Inspector (General Aviation Airworthiness),Temporary,140511.0,Full-time,Per Year,Illinois,aviation safety aviation airworthiness,0.06671021657924664,0.8665766489064133,0.06671313451434008,2015-06
+2015-06-05,Food Service Worker NA-02,Intermittent,11.29,Intermittent,Per Hour,Maryland,food service worker,0.08339341903668948,0.8332004288387546,0.08340615212455595,2015-06
+2015-06-05,Custodial Worker NA-02,Permanent,11.29,Full-time,Per Hour,Maryland,custodial worker,0.11152153369077322,0.7769311036862208,0.11154736262300609,2015-06
+2015-06-05,Recreation Aid NF-01,Permanent,8.25,Intermittent,Per Hour,Maryland,recreation aid,0.12170329196138295,0.1119488721204828,0.7663478359181343,2015-06
+2015-06-09,GARDENER ,Permanent,18.31,Part-time,Per Hour,Hawaii,gardener,0.16787765457910322,0.6641669592347704,0.1679553861861264,2015-06
+2016-05-27,Physician Assistant (Hospitalist),Permanent,92316.0,Full-time,Per Year,West Virginia,physician hospitalist,0.767526134759881,0.11116159611215157,0.12131226912796743,2016-05
+2017-12-30,MECHANICAL ENGINEER,Permanent,55970.0,Full-time,Per Year,Maryland,mechanical engineer,0.7775402123068686,0.11122870194460058,0.11123108574853069,2017-12
+2015-06-11,"Supervisory Air Traffic Control Specialist (T), Operations Supervisor",Permanent,123923.0,Full-time,Per Year,California,supervisory air traffic control operations,0.6965322091112914,0.24782812262603154,0.05563966826267701,2015-06
+2015-06-16,Customer Service Representative (Correctional),Permanent,67433.0,Full-time,Per Year,Georgia,customer service representative correctional,0.06683961446932637,0.2668228524200644,0.6663375331106092,2015-06
+2015-06-17,Information Technologoy Specialist (INFOSEC),Permanent,139523.0,Full-time,Per Year,District of Columbia,information technologoy infosec,0.08359032396005882,0.08361033011082598,0.8327993459291152,2015-06
+2015-07-20,Public Affairs Specialist,Permanent,151799.0,Full-time,Per Year,California,public affairs,0.1112275902622345,0.1112533087550155,0.77751910098275,2015-07
+2015-06-29,Administrative Specialist,Permanent,76386.0,Full-time,Per Year,Georgia,administrative,0.16681635968319816,0.666358029632336,0.16682561068446589,2015-06
+2016-06-29,"Registered Nurse, Clinical Nurse Specialist (CNS), ICU",Agency Employees Only,88515.0,Full-time,Per Year,Alabama,registered nurse clinical nurse cns icu,0.6931801736535784,0.25857581858105355,0.04824400776536816,2016-06
+2015-07-01,Primary Care Physician (Geriatric PACT),Permanent,215000.0,Part-time,Per Year,Alabama,primary care physician geriatric pact,0.4050232976121965,0.055805343412284734,0.5391713589755188,2015-07
+2015-07-01,Air Traffic Control Specialist (CPC),Permanent,86015.0,Full-time,Per Year,Pennsylvania,air traffic control cpc,0.8619869157023747,0.0712080319947152,0.06680505230291012,2015-07
+2015-07-02,Foreign Service Program/Project Development Officer  (Backstop 02/94),Permanent,98633.0,Full-time,Per Year,District of Columbia,foreign service project development backstop,0.05708534339999205,0.8872933399266527,0.05562131667335527,2015-07
+2015-07-08,Telecommunications Specialist,Permanent,82840.0,Full-time,Per Year,District of Columbia,telecommunications,0.16724174586100582,0.1672906387210701,0.6654676154179241,2015-07
+2015-07-07,COMMAND PROGRAM SUPPORT SPECIALIST,Temporary,76131.0,Full-time,Per Year,Mississippi,command support,0.11581932171740798,0.4343718059117509,0.4498088723708411,2015-07
+2015-07-09,General Engineer,Permanent,158700.0,Full-time,Per Year,District of Columbia,engineer,0.6665264327375291,0.1667298462886601,0.1667437209738108,2015-07
+2017-07-25,SSA-4100 General Availability for Assignment - Headquarters (including Falls Church),Agency Employees Only,150830.0,Full-time,Per Year,North Carolina,ssa availability headquarters including falls church,0.9042777437497784,0.047863311098960575,0.04785894515126104,2017-07
+2015-07-10,General Engineer,Permanent,158700.0,Full-time,Per Year,District of Columbia,engineer,0.6665264327375291,0.1667298462886601,0.1667437209738108,2015-07
+2016-12-01,Special Assistant,Agency Employees Only,119794.0,Full-time,Per Year,District of Columbia,special,0.16790258715144338,0.16800891570629878,0.6640884971422578,2016-12
+2015-07-14,Nurse Practitioner (GEC Hospice and Palliative Care Coordinator),Permanent,114091.0,Full-time,Per Year,Tennessee,nurse practitioner gec hospice palliative care,0.28705704731299136,0.054149527428116795,0.6587934252588918,2015-07
+2015-07-15,PRODUCT SAFETY INVESTIGATOR,Permanent,84800.0,Full-time,Per Year,California,product safety investigator,0.08395509987183951,0.3518067367752811,0.5642381633528792,2015-07
+2018-01-05,Transportation Security Officer (TSO),Permanent,26.23,Part-time,Per Hour,North Dakota,transportation security tso,0.08339160673195889,0.08393834070708557,0.8326700525609555,2018-01
+2015-07-21,"Secretary, GS-0318-08/09 DEU-MS",Permanent,68465.0,Full-time,Per Year,Virginia,secretary,0.16681972991964225,0.16683247331716397,0.6663477967631938,2015-07
+2015-07-22,"Aviation Safety Inspector (Operations), Principal Operations Inspector, General Aviation",Permanent,108507.0,Full-time,Per Year,Florida,aviation safety operations operations aviation,0.055724859248111644,0.8887028948954059,0.0555722458564825,2015-07
+2017-07-25,SSA-4100 General Availability for Assignment - Philadelphia Region,Agency Employees Only,152593.0,Full-time,Per Year,Pennsylvania,ssa availability philadelphia region,0.8661332400913514,0.06693559410710608,0.06693116580154247,2017-07
+2017-07-25,SSA-4100 General Availability for Assignment - Boston,Agency Employees Only,150830.0,Full-time,Per Year,Connecticut,ssa availability,0.7776442534788983,0.11117722490714663,0.11117852161395492,2017-07
+2017-07-25,SSA-4100 General Availability for Assignment - Dallas,Agency Employees Only,150830.0,Full-time,Per Year,Arkansas,ssa availability dallas,0.8328478199831112,0.08357782597918784,0.08357435403770086,2017-07
+2017-07-25,SSA-4100 General Availability for Assignment - Chicago ,Agency Employees Only,150830.0,Full-time,Per Year,Ohio,ssa availability,0.7776442534788983,0.11117722490714663,0.11117852161395492,2017-07
+2017-07-25,SSA-4100 General Availability for Assignment - Denver,Agency Employees Only,150830.0,Full-time,Per Year,Montana,ssa availability denver,0.8328478199801554,0.0835778259808237,0.08357435403902082,2017-07
+2017-07-25,SSA-4100 General Availability for Assignment - Kansas City,Agency Employees Only,150830.0,Full-time,Per Year,Missouri,ssa availability kansas,0.8328478196369905,0.08357782613788224,0.08357435422512718,2017-07
+2017-07-25,SSA-4100 General Availability for Assignment - OCO,Agency Employees Only,150830.0,Full-time,Per Year,Pennsylvania,ssa availability oco,0.8328478199801574,0.08357782598060172,0.08357435403924077,2017-07
+2015-07-29,Aviation Safety Inspector (Air Carrier Avionics),Permanent,118515.0,Full-time,Per Year,Alaska,aviation safety air carrier avionics,0.05660615727364707,0.8877859882246627,0.05560785450169024,2015-07
+2017-07-25,SSA-4100 General Availability for Assignment - New York,Agency Employees Only,150830.0,Full-time,Per Year,Puerto Rico,ssa availability,0.7776442534788983,0.11117722490714663,0.11117852161395492,2017-07
+2017-07-25,SSA 4100 General Availability for Assignment - Seattle,Agency Employees Only,152593.0,Full-time,Per Year,Alaska,ssa availability seattle,0.8328478199841615,0.08357782597854177,0.08357435403729677,2017-07
+2015-07-30,Aviation Safety Inspector (Operations),Permanent,118515.0,Full-time,Per Year,Alaska,aviation safety operations,0.08355069031903394,0.8330907645855115,0.08335854509545462,2015-07
+2015-07-30,Aviation Safety Inspector (Air Carrier Operations) Air Wisconsin,Permanent,118905.0,Full-time,Per Year,Illinois,aviation safety air carrier operations air wisconsin,0.042872291870959214,0.9153980293275531,0.04172967880148764,2015-07
+2017-07-25,SSA-4100 General Availability for Assignment - Atlanta,Agency Employees Only,150830.0,Full-time,Per Year,North Carolina,ssa availability atlanta,0.8328478199815927,0.0835778259798917,0.0835743540385156,2017-07
+2017-07-25,General Availability for Assignment - San Francisco,Agency Employees Only,150830.0,Full-time,Per Year,Nevada,availability san francisco,0.347925274032312,0.08402712782432718,0.5680475981433608,2017-07
+2016-10-06,Physician (Emergency Department),Permanent,240000.0,Full-time,Per Year,Ohio,physician emergency,0.12196286251364631,0.11121649303670068,0.7668206444496529,2016-10
+2015-08-05,Supervisory Aviation Technical Systems Specialist ,Permanent,165739.0,Full-time,Per Year,Georgia,supervisory aviation technical systems,0.26761985463614774,0.6571415335387865,0.07523861182506585,2015-08
+2017-03-27,Supervisory Police Officer,Permanent,64697.0,Full-time,Per Year,Louisiana,supervisory police,0.7775531866311495,0.11122493978183702,0.11122187358701337,2017-03
+2015-08-11,Computer Scientist,Permanent,115914.0,Full-time,Per Year,New Jersey,computer scientist,0.7613615600579896,0.1112507466099413,0.12738769333206917,2015-08
+2015-08-12,"Aviation Safety Inspector (Operations), Principal Operations Inspector, General Aviation",Permanent,113383.0,Full-time,Per Year,Georgia,aviation safety operations operations aviation,0.055724859248111644,0.8887028948954059,0.0555722458564825,2015-08
+2015-08-17,Instructional Systems Specialist- DE,Permanent,118069.0,Full-time,Per Year,District of Columbia,instructional systems,0.11137515349658297,0.7463963678723236,0.14222847863109342,2015-08
+2015-08-17,Instructional Systems Specialist- MP,Permanent,118069.0,Full-time,Per Year,District of Columbia,instructional systems,0.11137515349658297,0.7463963678723236,0.14222847863109342,2015-08
+2015-08-21,"International Trade Specialist GS-1140-09/11/12/13, (MAP)",Permanent,95048.0,Full-time,Per Year,Arizona,international trade,0.7770769699920095,0.11145096250982064,0.11147206749816985,2015-08
+2015-08-25,Human Resources Specialist (Labor Relations) - DE,Permanent,139523.0,Full-time,Per Year,District of Columbia,human resources labor relations,0.06689479612286511,0.8661962777279406,0.06690892614919437,2015-08
+2015-08-26,"Maintenance Mechanic Leader, WL-4749-11",Permanent,34.92,Full-time,Per Hour,Maryland,maintenance mechanic leader,0.08516060579734476,0.08346914213619094,0.8313702520664643,2015-08
+2016-10-01,Urologist - Women's Health (Physician),Permanent,325000.0,Part-time,Per Year,New York,urologist women health physician,0.8616125890821184,0.06898255297155254,0.06940485794632907,2016-10
+2015-09-04,"Research Mechanical Engineer, ZP-0830-III/IV",Permanent,139523.0,Full-time,Per Year,Maryland,research mechanical engineer iii,0.8497624376015682,0.08337242776633758,0.06686513463209413,2015-09
+2015-09-09,Aviation Clerk (Office Automation),Permanent,43397.0,Full-time,Per Year,Georgia,aviation clerk office automation,0.07539101067815353,0.8577743441821076,0.06683464513973869,2015-09
+2015-09-10,"Mathematical Statistician, ZP-1529-03 (GS-11/12 equivalent)",Term,99296.0,Full-time,Per Year,Maryland,mathematical statistician,0.7767197321097313,0.1116453435047709,0.11163492438549784,2015-09
+2017-09-06,STAFF NURSE (HOME BASED PRIMARY CARE),Permanent,105797.0,Full-time,Per Year,Delaware,nurse home based primary care,0.05855297845364946,0.5243311835614862,0.41711583798486424,2017-09
+2015-09-13,IT Specialist (Customer Support),Permanent,82026.0,Full-time,Per Year,Colorado,customer support,0.1132457100599321,0.11134803867701308,0.7754062512630547,2015-09
+2015-09-21,Staff Accountant,Permanent,110275.0,Full-time,Per Year,Alabama,accountant,0.16682025023902627,0.1668330860620168,0.666346663698957,2015-09
+2015-09-15,Supervisory International Trade Specialist GS-1140-14,Permanent,128223.0,Full-time,Per Year,Alabama,supervisory international trade,0.8329783749960419,0.08350603344906944,0.08351559155488873,2015-09
+2015-09-18,"Recent Graduate - Social Scientist, ZP-0101-II",Recent graduates,75509.0,Part-time,Per Year,Maryland,social scientist,0.11834415122282893,0.1163468722451195,0.7653089765320515,2015-09
+2015-09-16,Airplane Pilot,Permanent,128223.0,Full-time,Per Year,New Mexico,airplane pilot,0.11126383399150146,0.11127645173751037,0.7774597142709881,2015-09
+2015-09-18,Financial Analyst - MP,Permanent,139523.0,Full-time,Per Year,District of Columbia,financial,0.16686088440869107,0.1669901499841058,0.6661489656072032,2015-09
+2015-09-18,Financial Analyst - DE,Permanent,139523.0,Full-time,Per Year,District of Columbia,financial,0.16686088440869107,0.1669901499841058,0.6661489656072032,2015-09
+2015-09-23,Building Services Specialist,Permanent,76386.0,Full-time,Per Year,Georgia,building,0.16787765440808958,0.6641669594936719,0.16795538609823854,2015-09
+2015-09-25,Civil Engineer,Permanent,106847.0,Full-time,Per Year,California,civil engineer,0.7776066921452858,0.11119507424549761,0.11119823360921659,2015-09
+2015-09-25,Civil Engineer,Permanent,128629.0,Full-time,Per Year,California,civil engineer,0.7776066921452858,0.11119507424549761,0.11119823360921659,2015-09
+2015-10-02,Contract Specialist GS-1102-09 (MP-AL),Permanent,68465.0,Full-time,Per Year,Virginia,,0.3333333333333333,0.3333333333333333,0.3333333333333333,2015-10
+2015-10-02,Contract Specialist GS-1102-07 (MP-AL),Permanent,55970.0,Full-time,Per Year,Virginia,,0.3333333333333333,0.3333333333333333,0.3333333333333333,2015-10
+2015-10-05,Nurse Practitioner (Mental Health Service),Permanent,110530.0,Full-time,Per Year,Texas,nurse practitioner mental health service,0.6237538000294398,0.3202764388729128,0.05596976109764736,2015-10
+2015-10-07,"Human Resources Specialist (Staffing and Classification), GS-0201-11/12 (MP-PERM-YMJ)",Permanent,99296.0,Full-time,Per Year,Colorado,human resources staffing classification perm ymj,0.04772008166936332,0.9045536229613845,0.04772629536925208,2015-10
+2015-10-07,Human Resources Assistant-Employee Development,Permanent,45190.0,Full-time,Per Year,District of Columbia,human resources employee development,0.06676491296175063,0.8664603609887549,0.06677472604949457,2015-10
+2015-10-07,Museum Technician- Art,Permanent,45190.0,Full-time,Per Year,District of Columbia,museum technician art,0.12112630819744813,0.7950260181080527,0.08384767369449916,2015-10
+2015-10-08,Business Manager(Category Management),Permanent,158700.0,Full-time,Per Year,District of Columbia,business category management,0.7837417751311367,0.1325462405147662,0.08371198435409703,2015-10
+2015-10-09,"Aviation Safety Inspector (OPS), Training Center  Partial Program Manager",Permanent,108507.0,Full-time,Per Year,Florida,aviation safety ops training center partial,0.04769252931110955,0.9046102481823379,0.04769722250655253,2015-10
+2015-10-13,Health Technician,Permanent,52230.0,Full-time,Per Year,Texas,health technician,0.7652232442311918,0.12351684588343335,0.11125990988537483,2015-10
+2015-10-14,Program Specialist,Permanent,99296.0,Full-time,Per Year,District of Columbia,,0.3333333333333333,0.3333333333333333,0.3333333333333333,2015-10
+2017-01-19,Transportation Security Officer (TSO),Permanent,21.96,Part-time,Per Hour,Iowa,transportation security tso,0.08339160673195889,0.08393834070708557,0.8326700525609555,2017-01
+2015-10-15,Aviation Safety Inspector (Operations),Permanent,110978.0,Full-time,Per Year,Arizona,aviation safety operations,0.08355069031903394,0.8330907645855115,0.08335854509545462,2015-10
+2016-09-30,Psychiatry Residency Program Director,Permanent,292000.0,Full-time,Per Year,Ohio,psychiatry residency,0.7760311914991089,0.1119931093923588,0.11197569910853224,2016-09
+2015-10-16,"Aviation Safety Inspector (Rotorcraft-Helicopter),  General Aviation Operations ",Permanent,108507.0,Full-time,Per Year,Florida,aviation safety rotorcraft helicopter aviation operations,0.047780959234725286,0.904485637861486,0.04773340290378894,2015-10
+2015-10-19,"Electrical Engineer - ZP-0850-IV, Electronics Engineer - ZP-0855-IV, Computer Scientist - ZP-1550-IV",Permanent,139523.0,Full-time,Per Year,Maryland,electrical engineer electronics engineer computer scientist,0.9030284843066487,0.04768420587353495,0.04928730981981631,2015-10
+2015-10-26,COMPLIANCE OFFICER (PATHWAYS RECENT GRADUATE),Recent graduates,68465.0,Full-time,Per Year,Maryland,compliance,0.16703831990273776,0.16706963169710692,0.6658920484001554,2015-10
+2015-10-26,"Program Analyst, ZA-343-3/4 (MAP) (International Affairs Specialist)",Permanent,139523.0,Full-time,Per Year,District of Columbia,international affairs,0.43924826547657825,0.11150313417765678,0.4492486003457651,2015-10
+2015-10-29,Education Program Specialist,Term,139523.0,Full-time,Per Year,Virginia,education,0.16702778203083307,0.6659229544001853,0.16704926356898164,2015-10
+2015-11-10,Mechanical Engineer (Recent Graduate),Recent graduates,67833.0,Full-time,Per Year,Maryland,mechanical engineer,0.7775402123068686,0.11122870194460058,0.11123108574853069,2015-11
+2015-11-05,RESOURCE MANAGEMENT SPECIALIST,Agency Employees Only,67137.0,Full-time,Per Year,Washington,resource management,0.11339743382528983,0.7753725443886098,0.1112300217861003,2015-11
+2015-11-02,"Contract Spec/Administrator/Negotiator, Procurement Analyst (Supvy/Non/Lead)",Permanent,158700.0,Full-time,Per Year,New Jersey,spec negotiator procurement supvy non,0.056904039815263305,0.055911462413410176,0.8871844977713265,2015-11
+2016-10-27,AIRPLANE PILOT (SIMULATOR INSTRUCTOR),Permanent,91255.0,Full-time,Per Year,Oklahoma,airplane pilot simulator instructor,0.06687060961682227,0.0668874858715572,0.8662419045116205,2016-10
+2015-11-05,Workforce Analyst,Permanent,68465.0,Full-time,Per Year,District of Columbia,workforce,0.1679025868569387,0.16800891546363178,0.6640884976794295,2015-11
+2017-04-07,Physician - Psychiatrist,Permanent,240000.0,Full-time,Per Year,Kansas,physician psychiatrist,0.12670656137359645,0.1111841896628793,0.7621092489635242,2017-04
+2015-11-06,Management Analyst,Multiple,68465.0,Full-time,Per Year,Virginia,management,0.17420889284498384,0.6590287816573406,0.16676232549767558,2015-11
+2015-11-10,Program Analyst,Permanent,118069.0,Full-time,Per Year,District of Columbia,,0.3333333333333333,0.3333333333333333,0.3333333333333333,2015-11
+2015-11-16,"Human Resources Specialist (Staffing and Classification), GS-0201-09/11 (MP-PERM-YMJ)",Permanent,82840.0,Full-time,Per Year,Virginia,human resources staffing classification perm ymj,0.04772008166936332,0.9045536229613845,0.04772629536925208,2015-11
+2015-11-17,Student Trainee,Internships,19.35,Full-time,Per Hour,District of Columbia,student trainee,0.11130933085743576,0.11365991596790592,0.7750307531746583,2015-11
+2015-11-01,Police Officer ,Permanent,58800.0,Full-time,Per Year,New Jersey,police,0.6660446243232774,0.1669805729770254,0.16697480269969714,2015-11
+2015-11-25,Airway Transportation System Specialist,Permanent,90253.0,Full-time,Per Year,South Carolina,airway transportation system,0.08552996438485984,0.6694471392303988,0.24502289638474142,2015-11
+2016-08-26,Psychiatrist,Permanent,320000.0,Multiple Schedules,Per Year,Wyoming,psychiatrist,0.1750586447127276,0.1668591393153661,0.6580822159719063,2016-08
+2015-11-27,PARKING OPERATIONS ASSISTANT (NF-02),Permanent,11.64,Part-time,Per Hour,Hawaii,parking operations,0.40406786958420826,0.4837535509494044,0.11217857946638726,2015-11
+2016-11-25,Registered Nurse Manager,Permanent,91354.0,Full-time,Per Year,Louisiana,registered nurse,0.12187205563419344,0.765457896283983,0.11267004808182365,2016-11
+2015-12-04,Staff Accountant - DE,Permanent,118069.0,Full-time,Per Year,District of Columbia,accountant,0.16682025023902627,0.1668330860620168,0.666346663698957,2015-12
+2015-12-04,Staff Accountant - MP,Permanent,118069.0,Full-time,Per Year,District of Columbia,accountant,0.16682025023902627,0.1668330860620168,0.666346663698957,2015-12
+2016-09-30,"Physician (Assistant Chief Of Staff, Specialty Medicine)",Permanent,250000.0,Full-time,Per Year,North Dakota,physician specialty medicine,0.08997541586974712,0.08356837424224968,0.8264562098880033,2016-09
+2016-06-30,"Physician (Assistant Chief Of Staff, Primary Care)",Permanent,250000.0,Full-time,Per Year,North Dakota,physician primary care,0.08803269925073526,0.0833656856826261,0.8286016150666387,2016-06
+2015-12-05,Aviation Technical Systems Specialist (Lead Planner),Permanent,138845.0,Full-time,Per Year,Georgia,aviation technical systems planner,0.06677264712782995,0.8608369351221592,0.07239041775001084,2015-12
+2016-12-06,Physician Primary Care,Permanent,225000.0,Full-time,Per Year,West Virginia,physician primary care,0.08803269925073526,0.0833656856826261,0.8286016150666387,2016-12
+2017-05-18,Legal Administrative Specialist,Agency Employees Only,69289.0,Full-time,Per Year,Louisiana,legal administrative,0.11152903191247163,0.7769158569691813,0.11155511111834707,2017-05
+2015-12-09,"Electronics Technician, ZT-0856-IV (GS-11/12 equivalent)",Permanent,99296.0,Full-time,Per Year,Maryland,electronics technician,0.77513128118975,0.11359404917932373,0.11127466963092611,2015-12
+2016-12-06,Physician (Open/Continuous) PACT TEAM,Multiple,210000.0,Multiple Schedules,Per Year,Massachusetts,physician pact team,0.8286908229407753,0.08342487008384991,0.08788430697537461,2016-12
+2015-12-22,Educational Technician (Office Automation),Permanent,52043.0,Full-time,Per Year,Virginia,educational technician office automation,0.8582374942955988,0.07490254078116011,0.06685996492324095,2015-12
+2015-12-16,"Survey Clerk (OA), GS-0303-05, CENSUS-M-DMM",Permanent,44572.0,Full-time,Per Year,Colorado,survey clerk dmm,0.09546141253833637,0.8208908234695387,0.08364776399212495,2015-12
+2017-01-04,AIRPLANE PILOT (Military Requirement),Multiple,53229.0,Full-time,Per Year,Colorado,airplane pilot,0.11126383399150146,0.11127645173751037,0.7774597142709881,2017-01
+2015-12-17,Management and Program Analyst,Permanent,80319.0,Full-time,Per Year,California,management,0.17420889284498384,0.6590287816573406,0.16676232549767558,2015-12
+2017-03-29,"Staff Physician (Section Chief, Dermatology)",Permanent,400000.0,Full-time,Per Year,New Mexico,physician section dermatology,0.8278385784362076,0.08376587341765088,0.08839554814614142,2017-03
+2017-09-04,Messenger (Motor Vehicle Operator),Permanent,34331.0,Full-time,Per Year,Texas,messenger motor vehicle operator,0.8601914156786681,0.06991196961606157,0.06989661470527027,2017-09
+2015-12-23,"Governmental Affairs Specialist, GS-0301-11/12 (Open to Status & VEOA Applicants) AB",Permanent,99296.0,Full-time,Per Year,District of Columbia,governmental affairs veoa applicants,0.06937349979377518,0.06703699408076796,0.8635895061254568,2015-12
+2017-09-01,"Physician (Assistant Chief, Radiology)",Permanent,400000.0,Full-time,Per Year,Tennessee,physician radiology,0.7669999085709672,0.11133123961341405,0.12166885181561886,2017-09
+2015-12-23,Administrative Specialist,Permanent,65748.0,Full-time,Per Year,Georgia,administrative,0.16681635968319816,0.666358029632336,0.16682561068446589,2015-12
+2015-12-23,Administrative Specialist,Permanent,65748.0,Full-time,Per Year,Georgia,administrative,0.16681635968319816,0.666358029632336,0.16682561068446589,2015-12
+2016-12-19,Physician (Orthopedic Surgeon),Permanent,375000.0,Full-time,Per Year,West Virginia,physician orthopedic surgeon,0.08817454377315788,0.0834611232773924,0.8283643329494498,2016-12
+2017-01-04,Command Post Specialist (Military Requirement),Multiple,56229.0,Full-time,Per Year,California,command post,0.11166325565144204,0.7765740535381154,0.11176269081044247,2017-01
+2016-12-19,Physician (Hospitalist),Permanent,240000.0,Full-time,Per Year,West Virginia,physician hospitalist,0.767526134759881,0.11116159611215157,0.12131226912796743,2016-12
+2017-01-04,Aircraft Pneudraulic Systems Mechanic (Fuels) - Military Requirement,Multiple,26.81,Full-time,Per Hour,California,aircraft pneudraulic systems mechanic fuels,0.055681884159013144,0.05651801205712578,0.8878001037838611,2017-01
+2017-01-04,Aircraft Pneudraulic Systems Mechanic (Hydraulic) - Military Requirement,Multiple,26.81,Full-time,Per Hour,California,aircraft pneudraulic systems mechanic hydraulic,0.05568188415907761,0.05651801205771828,0.8878001037832041,2017-01
+2017-01-04,Powered Support Systems Mechanic- Military Requirement,Multiple,26.81,Full-time,Per Hour,Florida,powered support systems mechanic,0.06727820137269405,0.06800635271693976,0.8647154459103662,2017-01
+2017-05-23,"Supervisory Public Affairs Specialist, GS-1035-12",Permanent,94197.0,Full-time,Per Year,Pennsylvania,supervisory public affairs,0.33412180774369826,0.08346414419477646,0.5824140480615253,2017-05
+2016-12-19,Physician (Pulmonologist),Permanent,240000.0,Full-time,Per Year,West Virginia,physician pulmonologist,0.7670039560009722,0.11132964220195858,0.12166640179706932,2016-12
+2016-12-19,Physician (Urologist),Permanent,400000.0,Full-time,Per Year,West Virginia,physician urologist,0.7672287972342343,0.11125679974127678,0.12151440302448877,2016-12
+2017-01-04,Ordnance Equipment Mechanic - Military Requirement,Multiple,26.81,Full-time,Per Hour,Alabama,ordnance equipment mechanic,0.08361459778957368,0.0854678667881434,0.8309175354222829,2017-01
+2017-01-04,Telecommunications Specialist (Military Requirement),Multiple,56229.0,Full-time,Per Year,Oklahoma,telecommunications,0.16724174586100582,0.1672906387210701,0.6654676154179241,2017-01
+2016-01-12,ELECTRICIAN (NA-10),Permanent,24.36,Full-time,Per Hour,Hawaii,electrician,0.16723773453231963,0.16728592344249146,0.665476342025189,2016-01
+2017-01-04,Aircraft Survival and Flight Equipment Repairer - Military Requirement,Multiple,25.69,Full-time,Per Hour,Washington,aircraft survival flight equipment repairer,0.05577483441884623,0.05649202589666201,0.8877331396844917,2017-01
+2017-03-22,Air Conditioning Equipment Operator,Permanent,25.31,Full-time,Per Hour,Tennessee,air conditioning equipment operator,0.07488692638024616,0.845862852301984,0.07925022131776988,2017-03
+2016-03-03,Supervisory Therapeutic Medical Physicist,Permanent,146570.0,Full-time,Per Year,New Jersey,supervisory therapeutic medical physicist,0.8661561558062413,0.066924364348352,0.06691947984540669,2016-03
+2017-01-04,Aircraft Electrician - (Military Requirement),Multiple,26.81,Full-time,Per Hour,Arizona,aircraft electrician,0.11133146151428949,0.11134988200025697,0.7773186564854535,2017-01
+2017-01-04,Sheet Metal Mechanic (Aircraft/Painter) (Military Requirement) ,Multiple,26.18,Full-time,Per Hour,Arizona,sheet metal mechanic aircraft painter,0.05578389231770134,0.05580201859790812,0.8884140890843906,2017-01
+2016-01-01,MAINTENANCE MECHANIC (NA-09),Permanent,22.76,Full-time,Per Hour,Hawaii,maintenance mechanic,0.11118364099939405,0.11119946706363946,0.7776168919369665,2016-01
+2016-01-06,Contract Specialist,Permanent,98669.0,Full-time,Per Year,Pennsylvania,,0.3333333333333333,0.3333333333333333,0.3333333333333333,2016-01
+2017-02-15,Primary Care Physician,Permanent,215000.0,Full-time,Per Year,Pennsylvania,primary care physician,0.08803269925073526,0.0833656856826261,0.8286016150666387,2017-02
+2016-01-18,Waiter (Banquets)  NA-01,Intermittent,8.42,Intermittent,Per Hour,North Carolina,waiter banquets,0.1118755098814428,0.11194017384994288,0.7761843162686144,2016-01
+2016-01-15,Training Specialist,Permanent,119794.0,Full-time,Per Year,District of Columbia,training,0.1668415234352922,0.6663060124141722,0.16685246415053548,2016-01
+2017-01-12,Physician - Primary Care,Permanent,225000.0,Full-time,Per Year,Virginia,physician primary care,0.08803269925073526,0.0833656856826261,0.8286016150666387,2017-01
+2016-01-15,Training Specialist,Permanent,119794.0,Full-time,Per Year,New Mexico,training,0.1668415234352922,0.6663060124141722,0.16685246415053548,2016-01
+2016-01-14,Respiratory Therapist (Certified),Agency Employees Only,52043.0,Multiple Schedules,Per Year,Kentucky,respiratory therapist certified,0.08523437553680298,0.8312256173911406,0.08354000707205642,2016-01
+2016-01-14,Information Technology Specialist,Permanent,100736.0,Full-time,Per Year,District of Columbia,information technology,0.11118978471866493,0.1111919869679875,0.7776182283133476,2016-01
+2016-01-15,"Human Resources Specialist, GG-0201-12, CENSUS-DE-DMM",Term,100736.0,Full-time,Per Year,District of Columbia,human resources dmm,0.08344364751202611,0.8331060603505098,0.08345029213746412,2016-01
+2016-01-20,Soil Scientist,Permanent,92316.0,Full-time,Per Year,Texas,soil scientist,0.12103842873046919,0.16219687206794683,0.716764699201584,2016-01
+2016-03-07,Resource Development Specialist ,Permanent,84044.0,Full-time,Per Year,Maryland,resource development,0.11130759628525572,0.7773726755051913,0.11131972820955285,2016-03
+2016-01-22,"Supervisory Budget Analyst, GS-0560-12 (SRM-DEU)",Permanent,98984.0,Full-time,Per Year,California,supervisory budget srm,0.8192436973478429,0.09710935162316665,0.08364695102899046,2016-01
+2017-04-20,Clinical Pharmacist,Permanent,118886.0,Part-time,Per Year,South Dakota,clinical pharmacist,0.777472446622297,0.11126584100727815,0.11126171237042481,2017-04
+2016-02-02,Physician (Medical Director GERI PACT),Permanent,234000.0,Full-time,Per Year,Alabama,physician medical geri pact,0.8638271772871631,0.06682084465934524,0.06935197805349184,2016-02
+2016-04-30,Physician (Nephrologist),Permanent,240000.0,Full-time,Per Year,North Dakota,physician nephrologist,0.7670039445220771,0.11132964271736158,0.12166641276056127,2016-04
+2016-02-29,Optometrist (ESEP/MP)(Open Cont),Permanent,111191.0,Full-time,Per Year,North Dakota,optometrist cont,0.1799582276029468,0.7086497154771549,0.11139205691989819,2016-02
+2016-02-29,Optometrist (DEU)(Open Cont),Permanent,111191.0,Full-time,Per Year,North Dakota,optometrist cont,0.1799582276029468,0.7086497154771549,0.11139205691989819,2016-02
+2016-01-29,Life Scientist / Environmental Engineer / Physical Scientist,Permanent,92316.0,Full-time,Per Year,Puerto Rico,life scientist environmental engineer physical scientist,0.23800058263064747,0.04772672445373812,0.7142726929156145,2016-01
+2016-01-29,Life Scientist / Environmental Engineer / Physical Scientist,Permanent,92316.0,Full-time,Per Year,Puerto Rico,life scientist environmental engineer physical scientist,0.23800058263064747,0.04772672445373812,0.7142726929156145,2016-01
+2015-06-01,Program Support Assistant,Term,56790.0,Full-time,Per Year,Virginia,support,0.17323246836464024,0.16675970462468687,0.660007827010673,2015-06
+2016-01-29,"Pathways Student Intern-Law Clerk, CG-0999-07/09",Internships,104686.0,Part-time,Per Year,New York,student intern law clerk,0.06695118788612017,0.8525909127997285,0.08045789931415114,2016-01
+2017-01-31,Optometrist,Permanent,160300.0,Full-time,Per Year,West Virginia,optometrist,0.16688075173901215,0.6662277964549287,0.16689145180605913,2017-01
+2016-01-29,General Attorney (Civil Rights),Permanent,96538.0,Full-time,Per Year,Georgia,attorney civil rights,0.8327582531551843,0.08362367524720098,0.08361807159761468,2016-01
+2016-02-01,Staff Assistant,Permanent,84044.0,Full-time,Per Year,District of Columbia,,0.3333333333333333,0.3333333333333333,0.3333333333333333,2016-02
+2016-04-01,Medical Officer/Supv Medical Officer (ES/MP) (Open Cont),Permanent,240000.0,Full-time,Per Year,North Dakota,medical supv medical cont,0.8654228721266167,0.0677547751743186,0.06682235269906452,2016-04
+2016-05-01,Medical Officer (Peds) (ES/MP) (Open Cont),Permanent,215000.0,Full-time,Per Year,North Dakota,medical peds cont,0.8314461415178754,0.08507289382588132,0.08348096465624319,2016-05
+2016-05-01,Medical Officer (OB/GYN) (ES/MP) (Open Cont),Permanent,240000.0,Full-time,Per Year,North Dakota,medical gyn cont,0.8312074433838483,0.08520195475201547,0.08359060186413626,2016-05
+2016-05-01,Medical Officer (ER) (ES/MP) (Open Cont),Permanent,300000.0,Full-time,Per Year,North Dakota,medical cont,0.7742111803273253,0.11457514663332372,0.11121367303935102,2016-05
+2016-02-01,Supervisory IT Specialist (Systems Administration) GS-2210-15-M-TG,Permanent,160300.0,Full-time,Per Year,District of Columbia,supervisory systems administration,0.583755065605313,0.09267343351818455,0.3235715008765025,2016-02
+2016-02-01,Supervisory IT Specialist (Systems Administration) GS-2210-15-D-TG,Permanent,160300.0,Full-time,Per Year,District of Columbia,supervisory systems administration,0.583755065605313,0.09267343351818455,0.3235715008765025,2016-02
+2016-02-01,"Project Management Specialist  GS-0301-09/11, Census-M-ADH",Permanent,84044.0,Full-time,Per Year,District of Columbia,project management adh,0.08896519737714183,0.8275387455836121,0.08349605703924615,2016-02
+2016-02-01,"Project Management Specialist  GS-0301-09/11, Census-D-ADH",Permanent,84044.0,Full-time,Per Year,District of Columbia,project management adh,0.08896519737714183,0.8275387455836121,0.08349605703924615,2016-02
+2016-02-01,"Supervisory Information Technology Specialist (Systems Analysis) GS-2210-15, Census-M-TG",Permanent,160300.0,Full-time,Per Year,District of Columbia,supervisory information technology systems analysis,0.223559898384274,0.056758478556184384,0.7196816230595416,2016-02
+2016-02-04,Compliance Specialist,Permanent,141555.0,Full-time,Per Year,District of Columbia,compliance,0.16703831990273776,0.16706963169710692,0.6658920484001554,2016-02
+2016-02-09,"REGISTERED NURSE, (DPP/PACU) (External)",Permanent,94434.0,Full-time,Per Year,Texas,registered nurse dpp pacu,0.06956114982103913,0.8630923830439422,0.0673464671350186,2016-02
+2016-02-16,Auditor,Permanent,115867.0,Full-time,Per Year,Oregon,auditor,0.16685668074647633,0.6662888732723646,0.16685444598115892,2016-02
+2016-02-10,Program Analyst,Permanent,122346.0,Full-time,Per Year,New York,,0.3333333333333333,0.3333333333333333,0.3333333333333333,2016-02
+2016-02-09,Nursing Assistant,Permanent,21.97,Part-time,Per Hour,District of Columbia,nursing,0.1672303177175919,0.6655035927537325,0.16726608952867564,2016-02
+2016-02-09,Nursing Assistant,Permanent,21.97,Full-time,Per Hour,District of Columbia,nursing,0.1672303177175919,0.6655035927537325,0.16726608952867564,2016-02
+2016-02-11,Psychologist (Compensation & Pension),Permanent,109781.0,Full-time,Per Year,Arizona,psychologist compensation pension,0.8323931434622636,0.0838092478977614,0.08379760863997501,2016-02
+2016-02-12,Grants Assistant,Permanent,58802.0,Full-time,Per Year,New York,grants,0.16787765462182752,0.6641669590015922,0.16795538637658017,2016-02
+2016-02-12,Management and Program Analyst,Permanent,99296.0,Full-time,Per Year,District of Columbia,management,0.17420889284498384,0.6590287816573406,0.16676232549767558,2016-02
+2017-01-01,Medical Technologist (OCA)(DE),Multiple,64881.0,Full-time,Per Year,South Dakota,medical technologist oca,0.8317376280017074,0.08350297414815543,0.0847593978501371,2017-01
+2017-01-01,Medical Technologist (OCA)(ESEP/MP),Multiple,64881.0,Full-time,Per Year,South Dakota,medical technologist oca,0.8317376280017074,0.08350297414815543,0.0847593978501371,2017-01
+2016-04-01,Physician,Agency Employees Only,300000.0,Full-time,Per Year,South Carolina,physician,0.5975716907126821,0.16670437071532873,0.23572393857198914,2016-04
+2016-02-12,Foreign Service  Education Officer (Backstop 60 ),Permanent,100070.0,Full-time,Per Year,District of Columbia,foreign service education backstop,0.06672249171546787,0.8665454588300543,0.06673204945447786,2016-02
+2016-02-18,Quality Assurance Specialist (Mechanical) (Deployable),Permanent,82320.0,Full-time,Per Year,Pennsylvania,quality assurance mechanical deployable,0.865862369227608,0.06707278897653013,0.06706484179586185,2016-02
+2016-02-12,Foreign Service Financial Management Officer  (Backstop 04),Permanent,81086.0,Full-time,Per Year,District of Columbia,foreign service financial management backstop,0.056142543950409865,0.7306498660901248,0.2132075899594653,2016-02
+2016-02-15,Lead Medical Supply Technician,Permanent,52043.0,Full-time,Per Year,Georgia,medical supply technician,0.8101046261449776,0.08492369041650483,0.1049716834385176,2016-02
+2017-02-16,Physician (Primary Care),Permanent,225000.0,Full-time,Per Year,Texas,physician primary care,0.08803269925073526,0.0833656856826261,0.8286016150666387,2017-02
+2016-02-17,Correctional Program Officer,Permanent,139457.0,Full-time,Per Year,Colorado,correctional,0.1670368765035411,0.1670879449419732,0.6658751785544856,2016-02
+2017-03-28,Optometrist - Fee Basis,Permanent,40.0,Intermittent,Fee Basis,North Carolina,optometrist fee basis,0.09412313245887147,0.8221199527444543,0.08375691479667424,2017-03
+2017-05-01,Facility Management Specialist *DELETE*******,Permanent,100736.0,Full-time,Per Year,District of Columbia,facility management delete,0.7842594923729164,0.13206620990236792,0.08367429772471582,2017-05
+2016-02-19,Administrative Assistant,Permanent,53677.0,Full-time,Per Year,North Carolina,administrative,0.16681635968319816,0.666358029632336,0.16682561068446589,2016-02
+2017-02-03,Physician (Nephrologist),Permanent,264000.0,Full-time,Per Year,West Virginia,physician nephrologist,0.7670039445220771,0.11132964271736158,0.12166641276056127,2017-02
+2017-02-25,Surgical Technician,Permanent,46901.0,Full-time,Per Year,Colorado,surgical technician,0.30614855189300316,0.582321263364359,0.11153018474263793,2017-02
+2016-02-24,"Supervisory Survey Statistician, GS-1530-07/09/11/12, Census-CB-NW",Permanent,96538.0,Full-time,Per Year,Georgia,supervisory survey statistician,0.8311248478692916,0.08539274368350652,0.08348240844720188,2016-02
+2016-03-14,Facility Operations Specialist ,Multiple,92316.0,Intermittent,Per Year,Washington,facility operations,0.4561689891923468,0.43240975757665673,0.11142125323099655,2016-03
+2016-03-08,Physician (Spinal Cord Injury),Permanent,240000.0,Full-time,Per Year,Tennessee,physician spinal cord injury,0.06972714613603474,0.06702580269942916,0.863247051164536,2016-03
+2017-02-25,Financial Systems Analyst,Permanent,95965.0,Full-time,Per Year,Ohio,financial systems,0.11121640289283505,0.11592110406472407,0.7728624930424408,2017-02
+2016-09-30,"Aircraft Engine Mechanic, WG-8602-05/08/10",Permanent,24.34,Full-time,Per Hour,Texas,aircraft engine mechanic,0.08345178527026367,0.08345951237283934,0.833088702356897,2016-09
+2016-02-29,Biologist/Toxicologist/Geneticist/Chemist,Permanent,133796.0,Full-time,Per Year,North Carolina,biologist toxicologist geneticist chemist,0.8657987032582259,0.0671049296166283,0.06709636712514586,2016-02
+2016-03-02,Logistics Management Specialist ,Multiple,109781.0,Intermittent,Per Year,Washington,logistics management,0.113410747192,0.7753275292669976,0.11126172354100246,2016-03
+2016-02-25,Foreign Private Enterprise Officer (Backstop 21),Permanent,100070.0,Full-time,Per Year,District of Columbia,foreign private enterprise backstop,0.06689684181673652,0.8661912495076878,0.06691190867557577,2016-02
+2017-09-05,Transportation Security Officer (TSO),Permanent,22.33,Part-time,Per Hour,Utah,transportation security tso,0.08339160673195889,0.08393834070708557,0.8326700525609555,2017-09
+2016-03-02,Educational Technician (Office Automation),Permanent,52043.0,Full-time,Per Year,Virginia,educational technician office automation,0.8582374942955988,0.07490254078116011,0.06685996492324095,2016-03
+2016-02-26,Foreign Service Economist Officer  (Backstop 11),Permanent,100070.0,Full-time,Per Year,District of Columbia,foreign service economist backstop,0.06672238269381153,0.866545597643734,0.06673201966245448,2016-02
+2016-03-01,"Trades Helper (Linehandler Relief) - WG - 5201 - 05 (Open to Status, VEOA and NC Eligibles)  BP-SR",Permanent,25.4,Full-time,Per Hour,New York,trades helper linehandler relief veoa eligibles,0.9016589777525806,0.04915986124823739,0.049181160999181996,2016-03
+2016-03-01,Secretary,Permanent,58802.0,Full-time,Per Year,New Jersey,secretary,0.16681972991964225,0.16683247331716397,0.6663477967631938,2016-03
+2016-05-06,Staff Chaplain (Roman Catholic),Permanent,95965.0,Part-time,Per Year,Missouri,chaplain roman catholic,0.08359278034305556,0.08361426835340496,0.8327929513035395,2016-05
+2017-03-01,IT SPECIALIST (PLCYPLN),Permanent,72366.0,Full-time,Per Year,Tennessee,plcypln,0.6638354360500494,0.168096668878795,0.16806789507115555,2017-03
+2017-02-02,MEDICAL OFFICER (FP/IM/PEDS) - LOCUM/PRN,Temporary,103.01,Intermittent,Per Hour,Oregon,medical peds,0.7773481009921276,0.11132750017085274,0.11132439883701972,2017-02
+2016-03-01,"Supervisory Survey Statistician (Field), GS-1530-12, Census, MP-MMW",Permanent,104304.0,Full-time,Per Year,New York,supervisory survey statistician field mmw,0.887706869283692,0.05651684888752682,0.05577628182878105,2016-03
+2016-03-01,"Physician, Medical Officer of the Day (MOD, Fee Basis)",Temporary,150200.0,Intermittent,Per Year,Arkansas,physician medical day mod fee basis,0.9004868853893202,0.05049776456605575,0.049015350044624144,2016-03
+2016-03-02,"Aviation Safety Inspector (OPS), Training Center  Partial Program Manager",Permanent,109781.0,Full-time,Per Year,Florida,aviation safety ops training center partial,0.04769252931110955,0.9046102481823379,0.04769722250655253,2016-03
+2017-03-02,Health Science Specialist,Multiple,92316.0,Full-time,Per Year,Alabama,health science,0.7644953756624413,0.11983481367752538,0.1156698106600332,2017-03
+2016-03-03,Supervisory Auditor-DE,Permanent,141555.0,Full-time,Per Year,District of Columbia,supervisory auditor,0.44632073480921663,0.4424134092341145,0.11126585595666887,2016-03
+2016-03-03,"Child and Youth Program Assistant, CY 01/02, Summer Hire",Intermittent,13.85,Intermittent,Per Hour,Puerto Rico,child youth summer,0.8320610777433216,0.08397577104909737,0.08396315120758108,2016-03
+2017-01-03,NURSE PRACTITIONER (LOCUM/PRN),Temporary,47.6,Intermittent,Per Hour,Oregon,nurse practitioner,0.7658269783951012,0.12149883897830395,0.11267418262659495,2017-01
+2016-09-19,Physician (Psychiatrist) - Deputy Clinical Executive,Permanent,250000.0,Full-time,Per Year,Texas,physician psychiatrist clinical executive,0.8342168027330699,0.07168480306513718,0.0940983942017929,2016-09
+2016-03-04,"Computer Scientist, ZP-1550-IV (GS-13/14 Equivalent) Direct Hire",Term,141555.0,Full-time,Per Year,Maryland,computer scientist,0.7613615600579896,0.1112507466099413,0.12738769333206917,2016-03
+2017-03-03,Social Worker-(MHRRTP),Permanent,77019.0,Full-time,Per Year,Wyoming,social worker mhrrtp,0.08359033054680157,0.8231744755352226,0.09323519391797579,2017-03
+2016-03-04,"Human Resources Assistant, GS-0203-05/06, Census-M-TST",Permanent,51102.0,Full-time,Per Year,District of Columbia,human resources tst,0.08353945407497582,0.8329082168626296,0.08355232906239461,2016-03
+2017-03-02,Supervisory General Engineer/Architect (Director Project Delivery),Permanent,160300.0,Full-time,Per Year,Maryland,supervisory engineer architect project delivery,0.886648084843046,0.05760213274804595,0.05574978240890794,2017-03
+2017-04-18,Boiler Plant Worker,Permanent,22.37,Full-time,Per Hour,Alabama,boiler plant worker,0.08371281848233303,0.8325507740379938,0.08373640747967317,2017-04
+2016-03-09,"Physician, Patient Aligned Care Team (PACT) ",Permanent,215000.0,Full-time,Per Year,South Dakota,physician patient aligned care team pact,0.7323418857166146,0.04845220924113433,0.21920590504225107,2016-03
+2017-03-07,Secretary (OA),Permanent,57919.0,Full-time,Per Year,Indiana,secretary,0.16681972991964225,0.16683247331716397,0.6663477967631938,2017-03
+2016-03-07,Staff Nurse (Medicine & Inpatient),Permanent,121883.0,Full-time,Per Year,California,nurse medicine inpatient,0.20711371823631808,0.11381062002152931,0.6790756617421526,2016-03
+2016-03-08,PHYSICIAN (UROLOGIST),Permanent,325000.0,Full-time,Per Year,Pennsylvania,physician urologist,0.7672287972342343,0.11125679974127678,0.12151440302448877,2016-03
+2017-03-25,Supervisory Medical Administration Specialist,Permanent,103053.0,Full-time,Per Year,California,supervisory medical administration,0.8331660718421352,0.08341219296292642,0.08342173519493835,2017-03
+2016-03-08,Physician-Pulmonologist,Permanent,240000.0,Full-time,Per Year,Iowa,physician pulmonologist,0.7670039560009722,0.11132964220195858,0.12166640179706932,2016-03
+2016-03-08,"RANGE/FORESTRY TECHNICIAN (FIRE), GS-0455/0462-8/9",Permanent,71058.0,Full-time,Per Year,California,range forestry technician fire,0.26841588125771176,0.07045912994321275,0.6611249887990753,2016-03
+2016-04-11,Interdisciplinary ,Permanent,92316.0,Full-time,Per Year,Alabama,interdisciplinary,0.6662599281306273,0.16687194638124142,0.16686812548813132,2016-04
+2017-03-09,NP Home Based Primary Care Eureka CBOC,Permanent,151995.0,Full-time,Per Year,California,home based primary care eureka cboc,0.04785994736184794,0.4419774487134494,0.5101626039247027,2017-03
+2016-03-11,Maintenance Management Specialist ,Multiple,92316.0,Intermittent,Per Year,Washington,maintenance management,0.11623040687125445,0.44093573195877916,0.4428338611699663,2016-03
+2016-03-15,Park Ranger,Multiple,77019.0,Intermittent,Per Year,Washington,park ranger,0.11187550981850879,0.11194017381876532,0.7761843163627259,2016-03
+2016-03-10,"Supervisory Contract Specialist, GS-1102-14 (Direct Hire)",Permanent,145629.0,Full-time,Per Year,Missouri,supervisory,0.6665735053951254,0.1667152379265428,0.16671125667833175,2016-03
+2016-03-11,Civil Engineer (Hydraulics),Permanent,97927.0,Full-time,Per Year,Minnesota,civil engineer hydraulics,0.833053158541203,0.08347359210129858,0.08347324935749847,2016-03
+2016-03-11,Civil Engineer (Hydraulics),Permanent,97927.0,Full-time,Per Year,Minnesota,civil engineer hydraulics,0.833053158541203,0.08347359210129858,0.08347324935749847,2016-03
+2017-03-04,Behavioral Scientist,Permanent,96538.0,Full-time,Per Year,Georgia,behavioral scientist,0.12105216545296499,0.1627605723461967,0.7161872622008384,2017-03
+2016-03-11,Physician (Gastroenterologist),Permanent,310000.0,Full-time,Per Year,Idaho,physician gastroenterologist,0.7670039459586357,0.11132964265282443,0.12166641138853987,2016-03
+2016-03-17,Clinical Psychologist,Permanent,92316.0,Full-time,Per Year,,clinical psychologist,0.7774682445250256,0.1112703403379453,0.11126141513702908,2016-03
+2016-03-17,Medical Officer,Permanent,160300.0,Full-time,Per Year,,medical,0.6665815283638364,0.16670786865482837,0.1667106029813352,2016-03
+2016-03-17,Medical Officer,Permanent,240000.0,Full-time,Per Year,,medical,0.6665815283638364,0.16670786865482837,0.1667106029813352,2016-03
+2016-03-17,Physician Assistant,Permanent,84193.0,Full-time,Per Year,,physician,0.5975716907126821,0.16670437071532873,0.23572393857198914,2016-03
+2016-03-17,Clinical Nurse,Permanent,71901.0,Full-time,Per Year,,clinical nurse,0.7658873504458917,0.12147419600105813,0.11263845355305012,2016-03
+2016-03-17,Correctional Officer,Permanent,52834.0,Full-time,Per Year,,correctional,0.1670368765035411,0.1670879449419732,0.6658751785544856,2016-03
+2016-03-17,Nurse Practitioner,Permanent,84193.0,Full-time,Per Year,,nurse practitioner,0.7658269783951012,0.12149883897830395,0.11267418262659495,2016-03
+2016-03-17,Dental Officer,Permanent,122885.0,Full-time,Per Year,,dental,0.16722652192310858,0.6655116663242097,0.1672618117526817,2016-03
+2016-03-17,Medical Officer,Permanent,160300.0,Full-time,Per Year,,medical,0.6665815283638364,0.16670786865482837,0.1667106029813352,2016-03
+2016-03-11,Staff Chaplain (Roman Catholic),Permanent,36.9,Intermittent,Per Hour,Missouri,chaplain roman catholic,0.08359278034305556,0.08361426835340496,0.8327929513035395,2016-03
+2016-03-14,"Contract Specialist, GS-1102-14 (Direct Hire)",Permanent,145629.0,Full-time,Per Year,Missouri,,0.3333333333333333,0.3333333333333333,0.3333333333333333,2016-03
+2016-03-16,"Contract Specialist, GS-1102-13/14 (Direct Hire)",Permanent,145629.0,Full-time,Per Year,Missouri,,0.3333333333333333,0.3333333333333333,0.3333333333333333,2016-03
+2016-03-22,"Contract Specialist, GS-1102-13 (Direct Hire)",Permanent,123234.0,Full-time,Per Year,Colorado,,0.3333333333333333,0.3333333333333333,0.3333333333333333,2016-03
+2016-03-18,"Contract Specialist, GS-1102-09/11/12 (Direct Hire)",Permanent,103639.0,Full-time,Per Year,Colorado,,0.3333333333333333,0.3333333333333333,0.3333333333333333,2016-03
+2016-03-14,Interdisciplinary GS-****-13,Multiple,109781.0,Intermittent,Per Year,Washington,interdisciplinary,0.6662599281306273,0.16687194638124142,0.16686812548813132,2016-03
+2016-09-26,Human Resources Assistant (Info Sys/OA),Permanent,50070.0,Full-time,Per Year,Washington,human resources info sys,0.06689481505051229,0.8661961747116677,0.06690901023782009,2016-09
+2016-03-17,Program Analyst,Multiple,109781.0,Intermittent,Per Year,Washington,,0.3333333333333333,0.3333333333333333,0.3333333333333333,2016-03
+2016-03-15,Aviation Safety Inspector (Airworthiness),Permanent,109781.0,Full-time,Per Year,North Carolina,aviation safety airworthiness,0.08340095743180936,0.833193460873989,0.08340558169420156,2016-03
+2016-03-16,Auditor,Multiple,92316.0,Intermittent,Per Year,Washington,auditor,0.16685668074647633,0.6662888732723646,0.16685444598115892,2016-03
+2017-07-12,Physician - Program Manager - Orthopedic Surgery ,Permanent,388850.0,Full-time,Per Year,Missouri,physician orthopedic surgery,0.11394193805531881,0.08366453612835392,0.8023935258163273,2017-07
+2017-07-12,Physician - Program Manger - Cardiaothoracic Surgery,Permanent,388850.0,Full-time,Per Year,Missouri,physician manger cardiaothoracic surgery,0.5227341139448269,0.40094678689444885,0.07631909916072423,2017-07
+2016-03-18,Auditor,Multiple,109781.0,Intermittent,Per Year,Washington,auditor,0.16685668074647633,0.6662888732723646,0.16685444598115892,2016-03
+2016-03-15,SUPERVISORY POLICE OFFICER,Permanent,57631.0,Full-time,Per Year,Kansas,supervisory police,0.7775531866311495,0.11122493978183702,0.11122187358701337,2016-03
+2016-03-16,Environmental Protection Specialist,Permanent,120312.0,Full-time,Per Year,Alaska,environmental protection,0.11228517576120968,0.39133885356401266,0.4963759706747777,2016-03
+2016-03-18,Clinical Nurse,Permanent,83628.0,Full-time,Per Year,Massachusetts,clinical nurse,0.7658873504458917,0.12147419600105813,0.11263845355305012,2016-03
+2016-03-14,Housekeeping Aid WG-01 target 02,Agency Employees Only,24.04,Full-time,Per Hour,New York,housekeeping aid target,0.8273665601046711,0.083975087482815,0.0886583524125138,2016-03
+2016-05-26,Registered Respiratory Therapist (GEC),Permanent,57631.0,Full-time,Per Year,Alabama,registered respiratory therapist gec,0.06688073896025652,0.8639199921482947,0.06919926889144881,2016-05
+2016-03-16,Master Transportation Security Officer - Behavior Detection Officer (BDO),Permanent,62975.0,Full-time,Per Year,Florida,master transportation security behavior detection bdo,0.04783337089664108,0.04800600712118479,0.9041606219821742,2016-03
+2017-03-17,Self Assessment Monitor,Permanent,69688.0,Full-time,Per Year,Rhode Island,self assessment monitor,0.08387959267348048,0.8322064374149443,0.0839139699115752,2017-03
+2016-03-21,PUBLIC AFFAIRS SPECIALIST,Multiple,77019.0,Intermittent,Per Year,Washington,public affairs,0.1112275902622345,0.1112533087550155,0.77751910098275,2016-03
+2017-01-01,"Police Officer, 5/6/7 TEST ",Permanent,57381.0,Full-time,Per Year,Oklahoma,police,0.6660446243232774,0.1669805729770254,0.16697480269969714,2017-01
+2017-06-13,Social Insurance Specialist (Claims Specialist) ,Agency Employees Only,57090.0,Full-time,Per Year,Illinois,social insurance claims,0.08350870024105285,0.08589842371149044,0.8305928760474568,2017-06
+2016-03-18,Physician - Hospitalist (Nocturnist),Permanent,260000.0,Full-time,Per Year,Arkansas,physician hospitalist nocturnist,0.7180804755782177,0.1925812472863161,0.08933827713546616,2016-03
+2017-03-10,Information Technology Specialist (InfoSec) ,Permanent,139523.0,Full-time,Per Year,District of Columbia,information technology infosec,0.08342784463294005,0.08343353717793443,0.8331386181891255,2017-03
+2016-03-17,Assistant Deputy Director,Permanent,141555.0,Full-time,Per Year,District of Columbia,,0.3333333333333333,0.3333333333333333,0.3333333333333333,2016-03
+2017-04-04,Physician Chief Gastroenterologist,Permanent,400000.0,Full-time,Per Year,Arkansas,physician gastroenterologist,0.7670039459586357,0.11132964265282443,0.12166641138853987,2017-04
+2016-03-18,Foreign Service Population/Health/Nutrition (PHN) Officer (Backstop 50),Permanent,100070.0,Full-time,Per Year,District of Columbia,foreign service population health nutrition phn backstop,0.042842626150245214,0.9153512791357752,0.04180609471397953,2016-03
+2017-03-18,Supply Technician,Agency Employees Only,56767.0,Full-time,Per Year,California,supply technician,0.6479971844548162,0.11491189097113334,0.23709092457405032,2017-03
+2017-03-07,POWERED SUPPORT SYSTEMS MECHANIC,Permanent,27.62,Full-time,Per Hour,Oregon,powered support systems mechanic,0.06727820137269405,0.06800635271693976,0.8647154459103662,2017-03
+2016-03-18,PSYCHIATRIST,Permanent,200000.0,Full-time,Per Year,Missouri,psychiatrist,0.1750586447127276,0.1668591393153661,0.6580822159719063,2016-03
+2016-03-30,Computer Engineer/Electronics Engineer/Computer Scientist,Permanent,119794.0,Full-time,Per Year,Arizona,computer engineer electronics engineer computer scientist,0.9030437282144818,0.04766714707230727,0.04928912471321102,2016-03
+2017-03-18,Audit Liaison Specialist,Permanent,141555.0,Full-time,Per Year,District of Columbia,audit liaison,0.11187550982853625,0.11194017385636587,0.7761843163150978,2017-03
+2016-03-21,Foreign Affairs Specialist,Permanent,133444.0,Full-time,Per Year,,foreign affairs,0.11126391678672708,0.4452556281282202,0.4434804550850526,2016-03
+2016-03-31,Secretary (Typing),Permanent,56790.0,Full-time,Per Year,District of Columbia,secretary typing,0.11133706115291006,0.11135590141858422,0.7773070374285057,2016-03
+2017-03-23,Physician (Thoracic Surgeon - Scientist),Permanent,375000.0,Full-time,Per Year,California,physician thoracic surgeon scientist,0.07198068177384809,0.06683735508990751,0.8611819631362445,2017-03
+2017-03-20,Medical Laboratory Technician/ Phlebotomist,Permanent,46260.0,Intermittent,Per Year,California,medical laboratory technician phlebotomist,0.49957543389290154,0.06841473672672942,0.432009829380369,2017-03
+2017-02-24,Supervisory Logistics Management Specialist,Permanent,160300.0,Full-time,Per Year,Virginia,supervisory logistics management,0.3677490491662715,0.5487805526919691,0.08347039814175944,2017-02
+2017-03-22,ADVANCED MEDICAL SUPPORT ASSISTANT(PACT TEAM 12),Agency Employees Only,48637.0,Full-time,Per Year,Ohio,advanced medical support pact team,0.8776499276008828,0.05565441415086686,0.06669565824825036,2017-03
+2016-03-24,Program Manager,Multiple,129723.0,Intermittent,Per Year,Washington,,0.3333333333333333,0.3333333333333333,0.3333333333333333,2016-03
+2016-03-22,Physician (Cardiologist),Permanent,300000.0,Full-time,Per Year,West Virginia,physician cardiologist,0.7664533320575164,0.11156462696845167,0.12198204097403197,2016-03
+2016-03-31,"Food and Beverage Attendant (Snack Bar), NA-02",Intermittent,8.96,Intermittent,Per Hour,North Carolina,food beverage attendant snack bar,0.055851714692035835,0.8882780754075025,0.0558702099004617,2016-03
+2016-03-28,Safety & Occupational Health Manager,Multiple,129723.0,Intermittent,Per Year,Washington,safety occupational health,0.08907384487983333,0.825751894261616,0.08517426085855066,2016-03
+2016-03-31,Secretary (Typing),Permanent,56790.0,Full-time,Per Year,District of Columbia,secretary typing,0.11133706115291006,0.11135590141858422,0.7773070374285057,2016-03
+2016-03-23,HKA Non-Competitve Announcement - Pay Plan WG,Agency Employees Only,14.98,Multiple Schedules,Per Hour,Iowa,hka non competitve pay plan,0.8853050779598545,0.05595581619630783,0.058739105843837694,2016-03
+2016-03-23,Physician (Hospitalist),Permanent,240000.0,Full-time,Per Year,Arizona,physician hospitalist,0.767526134759881,0.11116159611215157,0.12131226912796743,2016-03
+2016-03-29,Physician - Internal Medicine/Primary Care/Family Practice,Permanent,225000.0,Full-time,Per Year,Wisconsin,physician internal medicine primary care family practice,0.04291014090079132,0.04178103009905695,0.9153088290001518,2016-03
+2016-03-29,Physician - Hematology/Oncology,Permanent,348000.0,Full-time,Per Year,Wisconsin,physician hematology oncology,0.8281320292749811,0.08365156807966119,0.0882164026453577,2016-03
+2016-03-29,Auditor,Permanent,115867.0,Full-time,Per Year,Oregon,auditor,0.16685668074647633,0.6662888732723646,0.16685444598115892,2016-03
+2016-03-24,MARKETING SPECIALIST (E-COMMERCE) NF-03,Permanent,42500.0,Full-time,Per Year,Hawaii,marketing commerce,0.11186043810644652,0.776231772036206,0.11190778985734755,2016-03
+2016-03-24,Foreign Service Engineering Officer (Backstop 25),Permanent,81086.0,Full-time,Per Year,District of Columbia,foreign service engineering backstop,0.06672443599558563,0.8665434737102498,0.06673209029416456,2016-03
+2016-03-24,Deputy Director,Permanent,163434.0,Full-time,Per Year,District of Columbia,,0.3333333333333333,0.3333333333333333,0.3333333333333333,2016-03
+2017-03-01,Accountant,Permanent,81219.0,Full-time,Per Year,Delaware,accountant,0.16682025023902627,0.1668330860620168,0.666346663698957,2017-03
+2016-03-22,Physician (Infectious Disease)-DH,Multiple,215000.0,Multiple Schedules,Per Year,Alabama,physician infectious disease,0.31503550837708133,0.5690928831400824,0.11587160848283619,2016-03
+2016-03-23,Physician (General Internal Medicine)-DH,Multiple,215000.0,Multiple Schedules,Per Year,Alabama,physician internal medicine,0.08979145283373499,0.08346201959877422,0.8267465275674908,2016-03
+2016-03-25,Electrical Engineer,Permanent,122706.0,Full-time,Per Year,California,electrical engineer,0.7773313537269934,0.1113340307323985,0.11133461554060815,2016-03
+2016-08-29,CLINICAL PHARMACIST SPECIALIST (ONCOLOGY),Permanent,115700.0,Full-time,Per Year,Louisiana,clinical pharmacist oncology,0.8329866026550429,0.0835086430488993,0.08350475429605791,2016-08
+2016-03-24,Physician (Hospitalist)-Direct Hire,Agency Employees Only,240000.0,Multiple Schedules,Per Year,Alabama,physician hospitalist,0.767526134759881,0.11116159611215157,0.12131226912796743,2016-03
+2016-03-25,Physician Assistant (Juneau CBOC),Permanent,120159.0,Part-time,Per Year,Alaska,physician juneau cboc,0.08838009227438476,0.0836104898972057,0.8280094178284095,2016-03
+2016-03-30,Budget Analyst,Multiple,109781.0,Intermittent,Per Year,Washington,budget,0.18167499532353473,0.6513691327009549,0.16695587197551043,2016-03
+2016-03-25,Physician (Allergists)-DH,Multiple,215000.0,Multiple Schedules,Per Year,Alabama,physician allergists,0.12257211342910536,0.11153933454129152,0.7658885520296032,2016-03
+2016-04-01,Food Service Worker  NA-02,Intermittent,9.36,Intermittent,Per Hour,North Carolina,food service worker,0.08339341903668948,0.8332004288387546,0.08340615212455595,2016-04
+2016-03-28,Program Analyst,Permanent,119794.0,Full-time,Per Year,District of Columbia,,0.3333333333333333,0.3333333333333333,0.3333333333333333,2016-03
+2016-04-04,Psychiatrist (Physician),Permanent,240000.0,Full-time,Per Year,South Dakota,psychiatrist physician,0.12670656137359645,0.1111841896628793,0.7621092489635242,2016-04
+2017-03-01,Supervisory Information Technology Specialist ,Agency Employees Only,100429.0,Full-time,Per Year,Michigan,supervisory information technology,0.3335484515604768,0.08341818228244109,0.5830333661570821,2017-03
+2016-04-11,Assistant Director of Compliance,Permanent,160300.0,Full-time,Per Year,District of Columbia,compliance,0.16703831990273776,0.16706963169710692,0.6658920484001554,2016-04
+2017-03-31,Education Training Technician,Permanent,62863.0,Full-time,Per Year,California,education training technician,0.11807526990879214,0.7983928329434801,0.08353189714772781,2017-03
+2016-03-31,Student Trainee (Physical Scientist) GS-1399-07 (PTI - LS),Internships,52043.0,Full-time,Per Year,South Dakota,student trainee physical scientist pti,0.05690329705263408,0.05613809169919545,0.8869586112481705,2016-03
+2019-04-22,Attorney,Multiple,160300.0,Multiple Schedules,Per Year,District of Columbia,attorney,0.6660498716938413,0.16697806463800177,0.1669720636681568,2019-04
+2016-04-01,Pharmacist - FY16 - DH/NC,Multiple,0.0,Full-time,Per Year,Florida,pharmacist,0.6660456897140535,0.16698019875280973,0.1669741115331367,2016-04
+2016-03-30,Dental Hygienist,Agency Employees Only,70103.0,Full-time,Per Year,Alabama,dental hygienist,0.111659821749905,0.7766458892235812,0.11169428902651388,2016-03
+2016-04-06,IT Specialist (Data Management),Permanent,98669.0,Full-time,Per Year,New Jersey,data management,0.11557527994956687,0.4875286303648456,0.39689608968558754,2016-04
+2016-04-04,Information Technology Specialist,Permanent,141555.0,Full-time,Per Year,District of Columbia,information technology,0.11118978471866493,0.1111919869679875,0.7776182283133476,2016-04
+2017-03-01,BIOLOGIST,Permanent,114802.0,Full-time,Per Year,Georgia,biologist,0.6653668487224667,0.1673230172781473,0.16731013399938607,2017-03
+2016-04-04,Business Manager,Permanent,160300.0,Full-time,Per Year,District of Columbia,business,0.6653597086090888,0.1673290028558348,0.16731128853507646,2016-04
+2017-04-04,Accountant,Permanent,96538.0,Full-time,Per Year,Georgia,accountant,0.16682025023902627,0.1668330860620168,0.666346663698957,2017-04
+2016-04-05,Program Analyst,Recent graduates,56790.0,Full-time,Per Year,District of Columbia,,0.3333333333333333,0.3333333333333333,0.3333333333333333,2016-04
+2016-04-04,Foreign Service Executive Officer (Backstop 03),Permanent,81086.0,Full-time,Per Year,District of Columbia,foreign service executive backstop,0.06814053469130414,0.8651183344696615,0.06674113083903441,2016-04
+2016-04-05,Airway Transportation Systems Specialist ,Permanent,108395.0,Full-time,Per Year,California,airway transportation systems,0.08351452127543485,0.4333452448581298,0.48314023386643534,2016-04
+2016-04-08,Program Manager ,Multiple,109781.0,Intermittent,Per Year,Washington,,0.3333333333333333,0.3333333333333333,0.3333333333333333,2016-04
+2016-04-25,Surgical Nocturnist (Hospitalist),Permanent,264000.0,Multiple Schedules,Per Year,New York,surgical nocturnist hospitalist,0.3588867180445684,0.5574147193667847,0.08369856258864686,2016-04
+2016-04-08,Acquisition Management Specialist,Multiple,77019.0,Intermittent,Per Year,Washington,acquisition management,0.11642885829764453,0.4954595183478553,0.3881116233545003,2016-04
+2016-04-05,Foreign Affairs Specialist,Permanent,133444.0,Full-time,Per Year,,foreign affairs,0.11126391678672708,0.4452556281282202,0.4434804550850526,2016-04
+2016-04-06,Electronics Technician,Permanent,67183.0,Full-time,Per Year,Oregon,electronics technician,0.77513128118975,0.11359404917932373,0.11127466963092611,2016-04
+2016-04-15,Safety & Occupational Health Manager ,Multiple,109781.0,Intermittent,Per Year,Washington,safety occupational health,0.08907384487983333,0.825751894261616,0.08517426085855066,2016-04
+2016-04-07,Biological Science Technician,Multiple,52043.0,Intermittent,Per Year,Washington,biological science technician,0.8295124175591876,0.08480895506786507,0.08567862737294737,2016-04
+2016-04-06,Physician (Urgent Care),Permanent,215000.0,Multiple Schedules,Per Year,New Hampshire,physician urgent care,0.0883013936211236,0.08354908599779524,0.8281495203810811,2016-04
+2017-06-07,Surface Maintenance Mechanic,Temporary,28.84,Full-time,Per Hour,Colorado,surface maintenance mechanic,0.08355315816837756,0.0835765561992653,0.8328702856323571,2017-06
+2016-02-29,Optometrist,Permanent,155073.0,Full-time,Per Year,Texas,optometrist,0.16688075173901215,0.6662277964549287,0.16689145180605913,2016-02
+2016-04-07,PHYSICIAN (OCCUPATIONAL MEDICINE),Permanent,240000.0,Full-time,Per Year,Washington,physician occupational medicine,0.09004555216194525,0.09773370935070466,0.8122207384873501,2016-04
+2017-02-17,Medical Instrument Technician (UltraSound),Agency Employees Only,66109.0,Full-time,Per Year,Ohio,medical instrument technician ultrasound,0.8658182322331273,0.06741682935448887,0.06676493841238391,2017-02
+2017-04-06,File Clerk (Scanner),Temporary,37551.0,Full-time,Per Year,Missouri,file clerk scanner,0.08359532431370914,0.8327932009761669,0.08361147471012396,2017-04
+2016-04-07,Human Resources Specialist (Human Capital Strategy),Permanent,141555.0,Full-time,Per Year,District of Columbia,human resources human capital strategy,0.05571041591556535,0.8885696102900081,0.055719973794426475,2016-04
+2016-04-08,"PHYSICIAN - PRIMARY CARE - Elmira, NY",Permanent,215000.0,Full-time,Per Year,New York,physician primary care elmira,0.06944678029666737,0.0668030455252277,0.863750174178105,2016-04
+2016-04-11,PUBLIC AFFAIRS SPECIALIST,Multiple,92316.0,Intermittent,Per Year,Washington,public affairs,0.1112275902622345,0.1112533087550155,0.77751910098275,2016-04
+2016-04-11,Physician (Primary Care),Permanent,262000.0,Full-time,Per Year,California,physician primary care,0.08803269925073526,0.0833656856826261,0.8286016150666387,2016-04
+2016-04-12,Economist,Multiple,109781.0,Intermittent,Per Year,Washington,economist,0.16702657278822916,0.6659244944898658,0.16704893272190505,2016-04
+2016-04-08,Airport Certification and Safety Inspector,Permanent,101927.0,Full-time,Per Year,California,airport certification safety,0.08395509920656352,0.3518065686150339,0.5642383321784026,2016-04
+2016-04-18,For All FBI Positions - Please apply for all FBI Positions on www.fbijobs.gov ,Permanent,100000.0,Full-time,Per Year,,fbi positions please apply fbi positions www fbijobs gov,0.03349625773960488,0.03350982853779337,0.9329939137226018,2016-04
+2017-03-14,"Supervisory Interdisciplinary Scientist, 0405/1320-15",Permanent,160300.0,Full-time,Per Year,Maryland,supervisory interdisciplinary scientist,0.8266470153339448,0.08340228500140358,0.08995069966465155,2017-03
+2016-04-13,Electric Power Controller,Multiple,30.74,Intermittent,Per Hour,Washington,electric power controller,0.08824102268956527,0.0839403749333823,0.8278186023770524,2016-04
+2016-04-13,Engineering Technician,Multiple,52043.0,Intermittent,Per Year,Washington,engineering technician,0.30190333293610205,0.5866627379638982,0.11143392909999977,2016-04
+2017-03-17,Physician - Psychiatrist - Iron Mountain,Permanent,300000.0,Full-time,Per Year,Michigan,physician psychiatrist iron mountain,0.07046982821320999,0.06692388245146197,0.8626062893353281,2017-03
+2016-04-11,"Physician, Neurologist",Permanent,264000.0,Full-time,Per Year,Arkansas,physician neurologist,0.12257211112453577,0.11153933435974427,0.76588855451572,2016-04
+2017-04-01,MASON HELPER WG-3603-5,Term,23.68,Full-time,Per Hour,Hawaii,mason helper,0.12175708623717314,0.7663234117969184,0.11191950196590862,2017-04
+2016-04-11,Maintenance Mechanic Leader NL-10,Permanent,26.8,Full-time,Per Hour,Hawaii,maintenance mechanic leader,0.08516060579734476,0.08346914213619094,0.8313702520664643,2016-04
+2016-04-15,Maintenance Mechanic,Multiple,27.4,Intermittent,Per Hour,Washington,maintenance mechanic,0.11118364099939405,0.11119946706363946,0.7776168919369665,2016-04
+2017-04-11,Student Trainee (Social Science Analyst),Internships,84044.0,Full-time,Per Year,District of Columbia,student trainee social science,0.0727745757477865,0.06901475274228515,0.8582106715099284,2017-04
+2017-04-12,Medical Instrument Technician (Ultrasound),Multiple,65130.0,Full-time,Per Year,Missouri,medical instrument technician ultrasound,0.8658182322331273,0.06741682935448887,0.06676493841238391,2017-04
+2017-04-12,Medical Instrument Technician (Ultrasound),Permanent,65130.0,Full-time,Per Year,Missouri,medical instrument technician ultrasound,0.8658182322331273,0.06741682935448887,0.06676493841238391,2017-04
+2017-04-12,Facility Design and Project Management Specialist ,Permanent,99243.0,Full-time,Per Year,Colorado,facility design project management,0.8264988829312728,0.10659667349403572,0.06690444357469155,2017-04
