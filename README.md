@@ -110,7 +110,8 @@ from sklearn.cluster import KMeans
 
 ### Embedded Modelling for Primary Case (National/Federal Level)
 
-<img width="917" height="852" alt="image" src="https://github.com/user-attachments/assets/0dcc7c88-e038-4a4a-a7b4-5d9b37ff7f73" />
+<img width="903" height="833" alt="image" src="https://github.com/user-attachments/assets/b02547b7-0db0-458c-9b00-895db10d7ec9" />
+
 
 ## References
 
